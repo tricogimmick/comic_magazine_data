@@ -1,4 +1,4 @@
-# comic_magazine_data
+# comic magazine data
 漫画誌の掲載作品データ
 
 + 「週刊少年ジャンプ」 - ジャンプ+ の電子版より
