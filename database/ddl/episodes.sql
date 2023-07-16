@@ -6,5 +6,5 @@ CREATE TABLE episodes(
   , page_no INTEGER
   , serialization INTEGER
   , color INTEGER
-  , notice TEXT
+  , description TEXT
 )
