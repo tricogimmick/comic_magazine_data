@@ -1,0 +1,138 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import sqlite3 from 'sqlite3';
+import type { IssueType, AuthorType } from '../../lib/types';
+import { getAuthors, getMagazine, getContentType } from '../../lib/functions'
+
+type ParamType = {
+    params: {
+        id: string
+    },
+    props: {
+        issue: IssueType
+    }
+};
+
+export type QueryResultype = {
+    issue_id: string,
+    order_no: number,
+    title_id: number,
+    title: string,
+    page_no: number,
+    content_type: number,
+    color: number | null,
+    serialization_status: number | null,
+    description: string | null,
+    authors: AuthorType[] | null,
+    scripters: AuthorType[] | null
+}
+
+export function getStaticPaths() {
+    const dbPath = import.meta.env.COMICDB_PATH;
+	return new Promise<ParamType[]>((ok, ng) => {
+        const db = new sqlite3.Database(dbPath);
+		db.all<IssueType>("SELECT * FROM issues ORDER BY id", [] , (err, rows) => {
+			if (err || rows == null) {
+				ng(err || "Data not found");
+			} else {
+				ok(rows.map(x => ({ params: { id: x.id }, props: { issue: x }})));
+			}
+		});
+        db.close();
+	})
+}
+
+function getContents(db: sqlite3.Database, id: string) {
+    return new Promise<QueryResultype[]>((ok, ng) => {
+        db.all<QueryResultype>(
+            "SELECT c.*, t.title FROM contents as C JOIN titles as t ON t.id = c.title_id WHERE c.issue_id = ? ORDER BY order_no",
+            [id], 
+            (err, rows) => {
+                if (err || rows == null) {
+                    ng(err || "Data not found");
+                } else {
+                    ok(rows);
+                }
+            });
+    });
+}
+
+const { issue } = Astro.props;
+
+const dbPath = import.meta.env.COMICDB_PATH;
+const db = new sqlite3.Database(dbPath);
+
+const magazine = await getMagazine(db, issue.magazine_id);
+const contents = await getContents(db, issue.id);
+
+for (let content of contents) {
+    content.authors = await getAuthors(db, content.title_id, "AUTHOR");
+    content.scripters = await getAuthors(db, content.title_id, "SCRIPT");
+}
+
+db.close();
+
+
+---
+
+<Layout title="Comic Magazine Data - Issue">
+	<main>
+        <h1>{magazine?.title} {issue.title}</h1>
+        <p>{issue.description}</p>
+        <div>
+            <table>
+                <thead>
+                    <tr>
+                        <th>No</th>
+                        <th>作品名</th>
+                        <th>漫画</th>
+                        <th>原作</th>
+                        <th>頁</th>
+                        <th>種別</th>
+                        <th>カラー有無</th>
+                        <th>備考</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {contents.map(c => (
+                        <tr>
+                            <td>{c.order_no}</td>
+                            <td><a href={`../title/${c.title_id}`}>{c.title}</a></td>
+                            <td>{c.authors?.map((a,i) => i < (c.authors?.length ?? 0) - 1 ? 
+                                    (<a href={`../author/${a.id}`}>{a.name}</a><span>&</span>) :
+                                    (<a href={`../author/${a.id}`}>{a.name}</a>))}</td>
+                            <td>{c.scripters?.map((a,i) => i < (c.scripters?.length ?? 0) - 1 ? 
+                                    (<a href={`../author/${a.id}`}>{a.name}</a><span>&</span>) :
+                                    (<a href={`../author/${a.id}`}>{a.name}</a>))}</td>
+                            <td>{c.page_no}</td>
+                            <td>{getContentType(c.content_type)}</td>
+                            <td>{c.color == 1 ? "有" : ""}</td>
+                            <td>{c.description}</td>
+                        </tr>
+                    ))}        
+                </tbody>
+            </table>
+        </div>
+        <div>
+            <a href="/">戻る</a>
+        </div>
+    </main>
+</Layout>
+
+<style>
+    table {
+        border-collapse:  collapse;
+        table-layout: fixed;
+        margin-bottom: 1rem;
+    }
+    tr {
+        border-bottom: 1px dotted lightgray;
+    }
+    th {
+        font-weight: normal;
+        text-align: left;
+    }
+    td {
+        padding-top: 0.5rem;
+    }
+</style>
