@@ -175,7 +175,7 @@ INSERT INTO titles VALUES(159,'新鮮！八百屋高校',1,'MAFT',NULL,NULL);
 INSERT INTO titles VALUES(160,'だれでも抱けるキミが好き',1,'WYMG',NULL,NULL);
 INSERT INTO titles VALUES(161,'東京卍リベンジャーズ',1,'WSMG',NULL,NULL);
 INSERT INTO titles VALUES(162,'MAJOR 2nd',1,'WSSD',NULL,NULL);
-INSERT INTO titles VALUES(163,'愛してるゲームを終わらせたい',1,'WSSD',NULL,NULL);
+INSERT INTO titles VALUES(163,'愛してるゲームを終わらせたい',1,'ISDW',NULL,NULL);
 INSERT INTO titles VALUES(164,'地球の子',1,'WSJP',NULL,NULL);
 INSERT INTO titles VALUES(165,'わたしがすきな先輩',1,'WYMG',NULL,NULL);
 INSERT INTO titles VALUES(166,'筋肉探偵',1,'WSJP',NULL,NULL);
@@ -678,4 +678,6 @@ INSERT INTO titles VALUES(680,'空虚',0,'MAFT',0,'2023年9月号収録 四季�
 INSERT INTO titles VALUES(681,'八乙女×2',1,'BSMG',0,'');
 INSERT INTO titles VALUES(682,'忍CHAOTIC',0,'WSJP',0,'週刊少年ジャンプ 2023年 No.35に掲載');
 INSERT INTO titles VALUES(683,'ポテトトラブル',0,'',0,'週刊ヤングマガジン 2023年 No.35に掲載。新人賞"本誌掲載キャンペーン"優勝作品');
+INSERT INTO titles VALUES(684,'NIN-JIN',0,'WSJP',0,'週刊少年ジャンプ 2023年 No.35に掲載。目次に記載なし。第６回ジャンプスタートダッシュ漫画賞 準入選＆トップランナー賞受賞');
+INSERT INTO titles VALUES(685,'君の刀が折れるまで 〜月宮まつりの恋難き〜',1,'ISDW',0,'');
 COMMIT;
