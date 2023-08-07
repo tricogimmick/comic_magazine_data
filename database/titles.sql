@@ -680,4 +680,6 @@ INSERT INTO titles VALUES(682,'忍CHAOTIC',0,'WSJP',0,'週刊少年ジャンプ 
 INSERT INTO titles VALUES(683,'ポテトトラブル',0,'',0,'週刊ヤングマガジン 2023年 No.35に掲載。新人賞"本誌掲載キャンペーン"優勝作品');
 INSERT INTO titles VALUES(684,'NIN-JIN',0,'WSJP',0,'週刊少年ジャンプ 2023年 No.35に掲載。目次に記載なし。第６回ジャンプスタートダッシュ漫画賞 準入選＆トップランナー賞受賞');
 INSERT INTO titles VALUES(685,'君の刀が折れるまで 〜月宮まつりの恋難き〜',1,'ISDW',0,'');
+INSERT INTO titles VALUES(687,'GOD ARMS',0,'WSJP',0,'週刊少年ジャンプ 2023年 No.36・37合併号に掲載');
+INSERT INTO titles VALUES(688,'タダでは抱かれません',1,'IYMW',0,'');
 COMMIT;
