@@ -682,4 +682,8 @@ INSERT INTO titles VALUES(684,'NIN-JIN',0,'WSJP',0,'週刊少年ジャンプ 202
 INSERT INTO titles VALUES(685,'君の刀が折れるまで 〜月宮まつりの恋難き〜',1,'ISDW',0,'');
 INSERT INTO titles VALUES(687,'GOD ARMS',0,'WSJP',0,'週刊少年ジャンプ 2023年 No.36・37合併号に掲載');
 INSERT INTO titles VALUES(688,'タダでは抱かれません',1,'IYMW',0,'');
+INSERT INTO titles VALUES(689,'ヤニ穴る！',0,'WYMG',0,'週刊ヤングマガジン 2023年36・37合併号に掲載。「ヤニねこ」と「生徒会にも穴はある」のコラボ企画');
+INSERT INTO titles VALUES(690,'ヤニ猫（コラボ）',0,'WYMG',0,'週刊ヤングマガジン 2023年 No.36・37合併号に掲載。「ヤニねこ」1巻発売記念の競作。');
+INSERT INTO titles VALUES(691,'甘々シンデレラ',1,'IMGP',0,'');
+INSERT INTO titles VALUES(692,'生徒会にも穴はある！描き下ろし4コマ漫画！！',0,'WSMG',0,'週刊少年マガジン 2023年 No.36・37合併号に掲載');
 COMMIT;
