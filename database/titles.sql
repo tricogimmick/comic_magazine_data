@@ -114,7 +114,7 @@ INSERT INTO titles VALUES(98,'バイロケーターズ',1,'WSSD',NULL,NULL);
 INSERT INTO titles VALUES(99,'阿久津さんは推しに似ている',1,'WMRG',NULL,NULL);
 INSERT INTO titles VALUES(100,'守れ！しゅごまる',1,'WSJP',NULL,NULL);
 INSERT INTO titles VALUES(101,'ソウナンですか？',1,'WYMG',NULL,NULL);
-INSERT INTO titles VALUES(102,'脳梁ドッグファイト-坂田慎太郎の青春-',1,'WMRG',NULL,NULL);
+INSERT INTO titles VALUES(102,'脳梁ドッグファイト-坂田慎太郎の青春-',0,'WMRG',NULL,'週刊モーニング 2023年 No.38 より連載化');
 INSERT INTO titles VALUES(103,'キミの心を奪うテク',1,'WSJP',NULL,NULL);
 INSERT INTO titles VALUES(104,'ハッピーラブホール',1,'WYMG',NULL,NULL);
 INSERT INTO titles VALUES(105,'日々、幼なじみ。',1,'WSMG',NULL,NULL);
@@ -686,4 +686,5 @@ INSERT INTO titles VALUES(689,'ヤニ穴る！',0,'WYMG',0,'週刊ヤングマ�
 INSERT INTO titles VALUES(690,'ヤニ猫（コラボ）',0,'WYMG',0,'週刊ヤングマガジン 2023年 No.36・37合併号に掲載。「ヤニねこ」1巻発売記念の競作。');
 INSERT INTO titles VALUES(691,'甘々シンデレラ',1,'IMGP',0,'');
 INSERT INTO titles VALUES(692,'生徒会にも穴はある！描き下ろし4コマ漫画！！',0,'WSMG',0,'週刊少年マガジン 2023年 No.36・37合併号に掲載');
+INSERT INTO titles VALUES(693,'二階堂地獄ゴルフ',1,'WMRG',0,'週刊モーニング 2023年 No.38より連載開始');
 COMMIT;
