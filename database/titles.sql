@@ -691,4 +691,6 @@ INSERT INTO titles VALUES(694,'グラ・ディミオス',1,'WYMG',0,'週刊ヤ�
 INSERT INTO titles VALUES(695,'アイツノカノジョ',1,'ISDW',0,'');
 INSERT INTO titles VALUES(696,'日向の手のひら',0,'MAFT',0,'「月刊アフタヌーン」2023年10月号に掲載');
 INSERT INTO titles VALUES(697,'妹尾の頭部',0,'WSJP',0,'週刊少年ジャンプ 2023年 No.39 に掲載');
+INSERT INTO titles VALUES(698,'左手が疼くんです♥',0,'WSMG',0,'週刊少年マガジン 2023年　No.39に掲載');
+INSERT INTO titles VALUES(699,'霊癖イマジネーション',0,'WSMG',0,'週刊少年マガジン 2023年 No.39に掲載');
 COMMIT;
