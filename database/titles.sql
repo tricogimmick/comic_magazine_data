@@ -697,4 +697,6 @@ INSERT INTO titles VALUES(700,'サラリーマンZ',1,'WMRG',0,'週刊モーニ�
 INSERT INTO titles VALUES(701,'ハコイリお嬢とグータラ執事',0,'WSJP',0,'週刊少年ジャンプ 2023年 No.40 に掲載');
 INSERT INTO titles VALUES(702,'夜鐘のキト',0,'WSMG',0,'週刊少年マガジン 2023年 No.40に掲載');
 INSERT INTO titles VALUES(703,'冥天レストラン',1,'ISDW',0,'');
+INSERT INTO titles VALUES(704,'魔々勇々',1,'WSJP',0,'週刊少年ジャンプ　2023年 No.41より連載開始');
+INSERT INTO titles VALUES(705,'僕以外全員転生者かよ',1,'IYMW',0,'週刊ヤングマガジン 2023年 No.41に出張掲載');
 COMMIT;
