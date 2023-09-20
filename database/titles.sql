@@ -703,4 +703,7 @@ INSERT INTO titles VALUES(706,'委員長とつむじ風',0,'WSSD',0,'週刊少�
 INSERT INTO titles VALUES(707,'クサリスカル',0,'WSMG',0,'週刊少年マガジン　2023年 No.41に掲載');
 INSERT INTO titles VALUES(708,'彼氏時々彼女',1,'BSMG',0,'週刊少年マガジン 2023年 No.41に出張掲載');
 INSERT INTO titles VALUES(709,'カグラバチ',1,'WSJP',0,'週刊少年ジャンプ 2023年 No.42より連載開始');
+INSERT INTO titles VALUES(710,'亡者絶対殺す',0,'WSSD',0,'週刊少年サンデー 2023年 No.43に掲載');
+INSERT INTO titles VALUES(711,'ミモザイズム',1,'ISDW',0,'週刊少年サンデー 2023年 No.43 に出張掲載');
+INSERT INTO titles VALUES(712,'真夜中ハートチューン',1,'WSMG',0,'週刊少年マガジン 2023年 No.42より連載開始');
 COMMIT;
