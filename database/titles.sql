@@ -706,4 +706,5 @@ INSERT INTO titles VALUES(709,'カグラバチ',1,'WSJP',0,'週刊少年ジャ�
 INSERT INTO titles VALUES(710,'亡者絶対殺す',0,'WSSD',0,'週刊少年サンデー 2023年 No.43に掲載');
 INSERT INTO titles VALUES(711,'ミモザイズム',1,'ISDW',0,'週刊少年サンデー 2023年 No.43 に出張掲載');
 INSERT INTO titles VALUES(712,'真夜中ハートチューン',1,'WSMG',0,'週刊少年マガジン 2023年 No.42より連載開始');
+INSERT INTO titles VALUES(713,'神の雫 deuxieme',1,'WMRG',0,'週刊モーニング 2023年 No.43から連載開始');
 COMMIT;
