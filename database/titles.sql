@@ -707,4 +707,9 @@ INSERT INTO titles VALUES(710,'亡者絶対殺す',0,'WSSD',0,'週刊少年サ�
 INSERT INTO titles VALUES(711,'ミモザイズム',1,'ISDW',0,'週刊少年サンデー 2023年 No.43 に出張掲載');
 INSERT INTO titles VALUES(712,'真夜中ハートチューン',1,'WSMG',0,'週刊少年マガジン 2023年 No.42より連載開始');
 INSERT INTO titles VALUES(713,'神の雫 deuxieme',1,'WMRG',0,'週刊モーニング 2023年 No.43から連載開始');
+INSERT INTO titles VALUES(714,'冷血令嬢と吸血鬼',0,'WYMG',0,'週刊ヤングマガジン　2023年 No.43に掲載');
+INSERT INTO titles VALUES(715,'手加減できない強芽ちゃん',0,'WYMG',0,'週刊ヤングマガジン　2023年 No.43に掲載');
+INSERT INTO titles VALUES(716,'レベリオン Episode0',0,'WYMG',0,'週刊ヤングマガジン　2023年 No.43に掲載');
+INSERT INTO titles VALUES(717,'「天狗の台所」ドラマ撮影レポ',0,'MAFT',0,'月刊アフタヌーン 2023年11月号に掲載');
+INSERT INTO titles VALUES(718,'ツーオンアイス',1,'WSJP',0,'週刊少年ジャンプ　2023年No.43より連載開始');
 COMMIT;
