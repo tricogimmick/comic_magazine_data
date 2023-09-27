@@ -712,4 +712,5 @@ INSERT INTO titles VALUES(715,'手加減できない強芽ちゃん',0,'WYMG',0,
 INSERT INTO titles VALUES(716,'レベリオン Episode0',0,'WYMG',0,'週刊ヤングマガジン　2023年 No.43に掲載');
 INSERT INTO titles VALUES(717,'「天狗の台所」ドラマ撮影レポ',0,'MAFT',0,'月刊アフタヌーン 2023年11月号に掲載');
 INSERT INTO titles VALUES(718,'ツーオンアイス',1,'WSJP',0,'週刊少年ジャンプ　2023年No.43より連載開始');
+INSERT INTO titles VALUES(719,'はぐれもののフーガ',0,'WSSD',0,'週刊少年サンデー 2023年 No.44 掲載 SSGP第3筆');
 COMMIT;
