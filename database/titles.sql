@@ -114,7 +114,7 @@ INSERT INTO titles VALUES(98,'バイロケーターズ',1,'WSSD',NULL,NULL);
 INSERT INTO titles VALUES(99,'阿久津さんは推しに似ている',1,'WMRG',NULL,NULL);
 INSERT INTO titles VALUES(100,'守れ！しゅごまる',1,'WSJP',NULL,NULL);
 INSERT INTO titles VALUES(101,'ソウナンですか？',1,'WYMG',NULL,NULL);
-INSERT INTO titles VALUES(102,'脳梁ドッグファイト-坂田慎太郎の青春-',1,'WMRG',NULL,'週刊モーニング 2023年 No.38 より連載化');
+INSERT INTO titles VALUES(102,'脳梁ドッグファイト',1,'WMRG',NULL,'週刊モーニング 2023年 No.38 より連載化');
 INSERT INTO titles VALUES(103,'キミの心を奪うテク',1,'WSJP',NULL,NULL);
 INSERT INTO titles VALUES(104,'ハッピーラブホール',1,'WYMG',NULL,NULL);
 INSERT INTO titles VALUES(105,'日々、幼なじみ。',1,'WSMG',NULL,NULL);
