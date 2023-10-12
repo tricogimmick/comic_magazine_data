@@ -719,4 +719,7 @@ INSERT INTO titles VALUES(722,'出席番号0番',1,'WSSD',0,'週刊少年サン�
 INSERT INTO titles VALUES(723,'怪除屋さんの右隣',0,'WSSD',0,replace('週刊少年サンデー 2023年 No.45・46に前後編で掲載\n','\n',char(10)));
 INSERT INTO titles VALUES(724,'優しくない奴全員殺す',0,'WYMG',0,'週刊ヤングマガジン 2023年 No.45に掲載');
 INSERT INTO titles VALUES(725,'部屋の一族',0,'WSJP',0,'週刊少年ジャンプ 2023年 No.45に掲載');
+INSERT INTO titles VALUES(726,'もののけの乱',1,'WSMG',0,'週刊少年マガジン 2023年 No.45より連載開始');
+INSERT INTO titles VALUES(727,'弁当屋さん',0,'WSMG',0,'週刊少年マガジン 2023年 No.45 に掲載');
+INSERT INTO titles VALUES(728,'尾守つみきと奇日常',1,'WSSD',0,'週刊少年サンデー 2023年 No.46より連載開始');
 COMMIT;
