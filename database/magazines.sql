@@ -19,4 +19,5 @@ INSERT INTO magazines VALUES('BSMG','別冊少年マガジン','講談社','');
 INSERT INTO magazines VALUES('ISDW','サンデーうぇぶり','小学館','');
 INSERT INTO magazines VALUES('IYMW','ヤンマガWeb','講談社','');
 INSERT INTO magazines VALUES('IMGP','マガポケ','講談社','');
+INSERT INTO magazines VALUES('MYMG','月刊ヤングマガジン','講談社','');
 COMMIT;

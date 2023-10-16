@@ -722,4 +722,8 @@ INSERT INTO titles VALUES(725,'部屋の一族',0,'WSJP',0,'週刊少年ジャ�
 INSERT INTO titles VALUES(726,'もののけの乱',1,'WSMG',0,'週刊少年マガジン 2023年 No.45より連載開始');
 INSERT INTO titles VALUES(727,'弁当屋さん',0,'WSMG',0,'週刊少年マガジン 2023年 No.45 に掲載');
 INSERT INTO titles VALUES(728,'尾守つみきと奇日常',1,'WSSD',0,'週刊少年サンデー 2023年 No.46より連載開始');
+INSERT INTO titles VALUES(729,'スキャンダラ',1,'WYMG',0,'週刊ヤングマガジン 2023年 No.46より連載開始');
+INSERT INTO titles VALUES(730,'大怪獣ゲァーチマ',1,'MYMG',0,'週刊ヤングマガジン 2023年 No.46に出張掲載');
+INSERT INTO titles VALUES(731,'デスモン',1,'IYMW',0,'週刊ヤングマガジン 2023年 No.46に出張掲載');
+INSERT INTO titles VALUES(732,'カンヴァステラ',0,'WSJP',0,'週刊少年ジャンプ 2023年 No.46に掲載。J金未来杯エントリーNo.3');
 COMMIT;
