@@ -727,4 +727,5 @@ INSERT INTO titles VALUES(730,'大怪獣ゲァーチマ',1,'MYMG',0,'週刊ヤ�
 INSERT INTO titles VALUES(731,'デスモン',1,'IYMW',0,'週刊ヤングマガジン 2023年 No.46に出張掲載');
 INSERT INTO titles VALUES(732,'カンヴァステラ',0,'WSJP',0,'週刊少年ジャンプ 2023年 No.46に掲載。J金未来杯エントリーNo.3');
 INSERT INTO titles VALUES(733,'あの子は少女の振りをして',1,'ISDW',0,'週刊少年サンデー 2023年 No.47に出張掲載');
+INSERT INTO titles VALUES(734,'きっと残業のせい',0,'WMRG',0,'週刊モーニング 2023年 No.47に掲載');
 COMMIT;
