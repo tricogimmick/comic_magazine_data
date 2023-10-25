@@ -731,4 +731,8 @@ INSERT INTO titles VALUES(734,'きっと残業のせい',0,'WMRG',0,'週刊モ�
 INSERT INTO titles VALUES(735,'ZOOKEY!!',0,'WSJP',0,'週刊少年ジャンプ 2023年 No.47に掲載。J金未来杯エントリーNo.4');
 INSERT INTO titles VALUES(736,'ナリキンフットボール',1,'WYMG',0,'週刊ヤングマガジン 2023年 No.47より連載開始。');
 INSERT INTO titles VALUES(737,'二留さんはハタチ',0,'WYMG',0,'週刊ヤングマガジン 2023年 No.47に掲載');
+INSERT INTO titles VALUES(738,'ミライライフライ',1,'MAFT',0,'月刊アフタヌーン 2023年12月号より不定期連載開始');
+INSERT INTO titles VALUES(739,'燃えたい心',0,'MAFT',0,'月刊アフタヌーン 2023年12月号に掲載。四季賞秋 四季大賞受賞作');
+INSERT INTO titles VALUES(740,'ドラマ「天狗の台所」キャストインタビュー',0,'MAFT',0,'月刊アフタヌーン 2023年12月号に掲載');
+INSERT INTO titles VALUES(741,'オヤジとにゃん吉',1,'ISDW',0,'週刊少年サンデー 2023年 No.48 に出張掲載');
 COMMIT;
