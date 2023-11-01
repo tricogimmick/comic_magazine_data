@@ -736,4 +736,6 @@ INSERT INTO titles VALUES(739,'燃えたい心',0,'MAFT',0,'月刊アフタヌ�
 INSERT INTO titles VALUES(740,'ドラマ「天狗の台所」キャストインタビュー',0,'MAFT',0,'月刊アフタヌーン 2023年12月号に掲載');
 INSERT INTO titles VALUES(741,'オヤジとにゃん吉',1,'ISDW',0,'週刊少年サンデー 2023年 No.48 に出張掲載');
 INSERT INTO titles VALUES(742,'三國さんのバラ園',1,'IMR2',0,'週刊モーニング 2023年 No.48に出張掲載');
+INSERT INTO titles VALUES(743,'獣心のカタナ',1,'WSMG',0,'週刊少年マガジン 2023年 No.48より連載開始');
+INSERT INTO titles VALUES(744,'ミャクアリ イン ア サロン',0,'WSMG',0,'週刊少年マガジン 2023年 No.48に掲載。');
 COMMIT;
