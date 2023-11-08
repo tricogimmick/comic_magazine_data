@@ -740,4 +740,7 @@ INSERT INTO titles VALUES(743,'獣心のカタナ',1,'WSMG',0,'週刊少年マ�
 INSERT INTO titles VALUES(744,'ミャクアリ イン ア サロン',0,'WSMG',0,'週刊少年マガジン 2023年 No.48に掲載。');
 INSERT INTO titles VALUES(745,'ねずみの初恋',1,'WYMG',0,'週刊ヤングマガジン 2023年 No.49より連載開始');
 INSERT INTO titles VALUES(746,'Dr.STONE 4D SCIENCE',1,'WSJP',0,'全3回 週刊少年ジャンプ 2023年 No.49に第1回を掲載。');
+INSERT INTO titles VALUES(747,'みずぽろ',1,'WSSD',0,'週刊少年サンデー 2023年 No.50より連載開始。');
+INSERT INTO titles VALUES(748,'ヤらなきゃワカらんコトもある',0,'WSMG',0,'週刊少年マガジン 2023年 No.49に掲載');
+INSERT INTO titles VALUES(749,'陰陽事変',1,'IMGP',0,'週刊少年マガジン 2023年 No.49に出張掲載。');
 COMMIT;
