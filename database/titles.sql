@@ -745,4 +745,7 @@ INSERT INTO titles VALUES(748,'ヤらなきゃワカらんコトもある',0,'WS
 INSERT INTO titles VALUES(749,'陰陽事変',1,'IMGP',0,'週刊少年マガジン 2023年 No.49に出張掲載。');
 INSERT INTO titles VALUES(750,'子羊虎を成す',0,'WSJP',0,'週刊少年ジャンプ 2023年 No.50に掲載');
 INSERT INTO titles VALUES(751,'クイズイズ',0,'WSSD',0,'週刊少年サンデー 2023年 No.51に掲載');
+INSERT INTO titles VALUES(752,'俺ン家の怪物',1,'IYMW',0,'週刊ヤングマガジン 2023年 No.51に出張掲載');
+INSERT INTO titles VALUES(753,'フレイム・ブルー',0,'WSJP',0,'週刊少年ジャンプ 2023年 No.51');
+INSERT INTO titles VALUES(754,'今日の私は毛穴まで可愛い！！',0,'WSJP',0,'週刊少年ジャンプ 2023年 No.51に掲載。');
 COMMIT;
