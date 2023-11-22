@@ -748,4 +748,5 @@ INSERT INTO titles VALUES(751,'クイズイズ',0,'WSSD',0,'週刊少年サン�
 INSERT INTO titles VALUES(752,'俺ン家の怪物',1,'IYMW',0,'週刊ヤングマガジン 2023年 No.51に出張掲載');
 INSERT INTO titles VALUES(753,'フレイム・ブルー',0,'WSJP',0,'週刊少年ジャンプ 2023年 No.51');
 INSERT INTO titles VALUES(754,'今日の私は毛穴まで可愛い！！',0,'WSJP',0,'週刊少年ジャンプ 2023年 No.51に掲載。');
+INSERT INTO titles VALUES(755,'ヘビーめな彼女',0,'WSMG',0,'　週刊少年マガジン 2023年 No.51に掲載');
 COMMIT;
