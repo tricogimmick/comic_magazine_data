@@ -325,7 +325,7 @@ INSERT INTO titles VALUES(311,'竜と檻人',1,'WSJP',NULL,NULL);
 INSERT INTO titles VALUES(312,'1日外出録ハンチョウ',1,'WYMG',NULL,NULL);
 INSERT INTO titles VALUES(313,'ダーウィン事変',1,'MAFT',NULL,NULL);
 INSERT INTO titles VALUES(314,'僕はお姉さんとQしたい',1,'WSMG',NULL,NULL);
-INSERT INTO titles VALUES(315,'どくだみの花咲くころ',1,'MAFT',NULL,NULL);
+INSERT INTO titles VALUES(315,'どくだみの花咲くころ(読み切り)',1,'MAFT',NULL,NULL);
 INSERT INTO titles VALUES(316,'KIMURAxCLASS',1,'WSMG',NULL,NULL);
 INSERT INTO titles VALUES(317,'要領の悪い小呂くん',1,'WYMG',NULL,NULL);
 INSERT INTO titles VALUES(318,'美術館にて',1,'WYMG',NULL,NULL);
@@ -749,4 +749,5 @@ INSERT INTO titles VALUES(752,'俺ン家の怪物',1,'IYMW',0,'週刊ヤング�
 INSERT INTO titles VALUES(753,'フレイム・ブルー',0,'WSJP',0,'週刊少年ジャンプ 2023年 No.51');
 INSERT INTO titles VALUES(754,'今日の私は毛穴まで可愛い！！',0,'WSJP',0,'週刊少年ジャンプ 2023年 No.51に掲載。');
 INSERT INTO titles VALUES(755,'ヘビーめな彼女',0,'WSMG',0,'　週刊少年マガジン 2023年 No.51に掲載');
+INSERT INTO titles VALUES(756,'どくだみの花咲くころ',1,'MAFT',0,'月刊アフタヌーン 2024年1月号より新連載');
 COMMIT;
