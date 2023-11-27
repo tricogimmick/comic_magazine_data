@@ -750,4 +750,8 @@ INSERT INTO titles VALUES(753,'フレイム・ブルー',0,'WSJP',0,'週刊少�
 INSERT INTO titles VALUES(754,'今日の私は毛穴まで可愛い！！',0,'WSJP',0,'週刊少年ジャンプ 2023年 No.51に掲載。');
 INSERT INTO titles VALUES(755,'ヘビーめな彼女',0,'WSMG',0,'　週刊少年マガジン 2023年 No.51に掲載');
 INSERT INTO titles VALUES(756,'どくだみの花咲くころ',1,'MAFT',0,'月刊アフタヌーン 2024年1月号より新連載');
+INSERT INTO titles VALUES(757,'ギャルにぱちゃんはせまられたい',1,'IYMW',0,'週刊ヤングマガジン 2023年 No.52に出張掲載');
+INSERT INTO titles VALUES(758,'うみねこには負けない！',0,'WYMG',0,'週刊ヤングマガジン 2023年　No.52に掲載');
+INSERT INTO titles VALUES(759,'グリーングリーングリーンズ',1,'WSJP',0,'週刊少年ジャンプ 2023年 No.52より連載開始');
+INSERT INTO titles VALUES(760,'電車田中',0,'WSJP',0,'週刊少年ジャンプ 2023年 No.52に掲載');
 COMMIT;
