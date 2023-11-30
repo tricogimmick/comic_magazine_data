@@ -755,4 +755,5 @@ INSERT INTO titles VALUES(758,'うみねこには負けない！',0,'WYMG',0,'�
 INSERT INTO titles VALUES(759,'グリーングリーングリーンズ',1,'WSJP',0,'週刊少年ジャンプ 2023年 No.52より連載開始');
 INSERT INTO titles VALUES(760,'電車田中',0,'WSJP',0,'週刊少年ジャンプ 2023年 No.52に掲載');
 INSERT INTO titles VALUES(761,'アサシン先生の女難',0,'WSMG',0,'週刊少年マガジン 2023年 No.52に掲載');
+INSERT INTO titles VALUES(762,'遠い日の陽',0,'WMRG',0,'モーニング月例賞2023年9月期入選受賞作品 週刊モーニング 2023年 No.53に掲載');
 COMMIT;
