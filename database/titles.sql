@@ -762,4 +762,7 @@ INSERT INTO titles VALUES(765,'累々戦記',1,'WSJP',0,'週刊少年ジャン�
 INSERT INTO titles VALUES(766,'辺境の薬師、都でSランク冒険者となる',1,'IMGP',0,'週刊少年マガジン 2024年 No.1に掲載');
 INSERT INTO titles VALUES(767,'ゼロとヒャク',0,'WSMG',0,'2024年 No.1 に掲載');
 INSERT INTO titles VALUES(768,'異世界ワタリ診療所',0,'WSSD',0,'週刊少年サンデー 2024年 No.01に掲載');
+INSERT INTO titles VALUES(769,'ONE FOR ALL',1,'WYMG',0,'週刊ヤングマガジン 2024年 No.02より連載開始');
+INSERT INTO titles VALUES(770,'育てる三大欲求',0,'WYMG',0,'週刊ヤングマガジン 2024年 No.02に掲載');
+INSERT INTO titles VALUES(771,'つくも小町の年末',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.02に掲載');
 COMMIT;
