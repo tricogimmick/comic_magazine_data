@@ -767,4 +767,5 @@ INSERT INTO titles VALUES(770,'育てる三大欲求',0,'WYMG',0,'週刊ヤン�
 INSERT INTO titles VALUES(771,'つくも小町の年末',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.02に掲載');
 INSERT INTO titles VALUES(772,'飛んで恋入るバカの虫',0,'WSMG',0,'週刊少年マガジン 2024年 No.02・03合併号に掲載');
 INSERT INTO titles VALUES(773,'魔術ギルド総裁〜生まれ変わって今更やり直す2度目の学院生活～',1,'IMGP',0,'週刊少年マガジン 2024年 No.02・03合併後に出張掲載');
+INSERT INTO titles VALUES(774,'ふたりソロキャンプ',1,'WMRG',0,'週刊モーニング 2024年 No.02・03合併号からイブニングより移籍。');
 COMMIT;
