@@ -768,4 +768,9 @@ INSERT INTO titles VALUES(771,'つくも小町の年末',0,'WSJP',0,'週刊少�
 INSERT INTO titles VALUES(772,'飛んで恋入るバカの虫',0,'WSMG',0,'週刊少年マガジン 2024年 No.02・03合併号に掲載');
 INSERT INTO titles VALUES(773,'魔術ギルド総裁〜生まれ変わって今更やり直す2度目の学院生活～',1,'IMGP',0,'週刊少年マガジン 2024年 No.02・03合併後に出張掲載');
 INSERT INTO titles VALUES(774,'ふたりソロキャンプ',1,'WMRG',0,'週刊モーニング 2024年 No.02・03合併号からイブニングより移籍。');
+INSERT INTO titles VALUES(775,'息継ぎしふたり',0,'MAFT',0,'月刊アフタヌーン 2024年2月号に掲載');
+INSERT INTO titles VALUES(776,'つむぎのパン',0,'MAFT',0,'月刊アフタヌーン 2024年2月号に掲載');
+INSERT INTO titles VALUES(777,'ゴリラーマン40 ファミリー編',1,'WYMG',0,'週刊ヤングマガジン 2024年 No.04・05合併号より連載開始');
+INSERT INTO titles VALUES(778,'SLAVE VESSEL',1,'IYMW',0,'週刊ヤングマガジン 2024年No.04・05合併号に出張掲載。');
+INSERT INTO titles VALUES(779,'Tと小娘',0,'WYMG',0,'週刊ヤングマガジン 2024年No.04・05合併号に掲載');
 COMMIT;
