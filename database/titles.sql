@@ -774,4 +774,6 @@ INSERT INTO titles VALUES(777,'ゴリラーマン40 ファミリー編',1,'WYMG'
 INSERT INTO titles VALUES(778,'SLAVE VESSEL',1,'IYMW',0,'週刊ヤングマガジン 2024年No.04・05合併号に出張掲載。');
 INSERT INTO titles VALUES(779,'Tと小娘',0,'WYMG',0,'週刊ヤングマガジン 2024年No.04・05合併号に掲載');
 INSERT INTO titles VALUES(780,'29歳独身中堅冒険者の日常',1,'IMGP',0,'週刊少年マガジン 2024年 No.04・05合併号に出張掲載。');
+INSERT INTO titles VALUES(781,'@ALL CHARACTER',0,'',0,'');
+INSERT INTO titles VALUES(782,'@IDOL',0,'',0,'');
 COMMIT;
