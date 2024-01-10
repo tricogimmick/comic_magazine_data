@@ -776,4 +776,8 @@ INSERT INTO titles VALUES(779,'Tと小娘',0,'WYMG',0,'週刊ヤングマガジ�
 INSERT INTO titles VALUES(780,'29歳独身中堅冒険者の日常',1,'IMGP',0,'週刊少年マガジン 2024年 No.04・05合併号に出張掲載。');
 INSERT INTO titles VALUES(781,'@ALL CHARACTER',0,'',0,'');
 INSERT INTO titles VALUES(782,'@IDOL',0,'',0,'');
+INSERT INTO titles VALUES(783,'ほんのみち 流局西入編',1,'IYMW',0,'週刊ヤングマガジン 2024年 No.6に出張掲載。');
+INSERT INTO titles VALUES(784,'首化粧',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.6・7合併号に掲載');
+INSERT INTO titles VALUES(785,'竜送りのイサギ',1,'ISDW',0,'週刊少年サンデー 2024年 No.07に出張掲載');
+INSERT INTO titles VALUES(786,'盤上のオリオン',1,'WSMG',0,'週刊少年マガジン 2024年 No.06より連載開始');
 COMMIT;
