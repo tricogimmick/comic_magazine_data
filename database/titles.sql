@@ -781,4 +781,5 @@ INSERT INTO titles VALUES(784,'首化粧',0,'WSJP',0,'週刊少年ジャンプ 2
 INSERT INTO titles VALUES(785,'竜送りのイサギ',1,'ISDW',0,'週刊少年サンデー 2024年 No.07に出張掲載');
 INSERT INTO titles VALUES(786,'盤上のオリオン',1,'WSMG',0,'週刊少年マガジン 2024年 No.06より連載開始');
 INSERT INTO titles VALUES(787,'ちーちゃん',1,'WYMG',0,'週刊ヤングマガジン 2024年 No.07より連載開始');
+INSERT INTO titles VALUES(788,'先輩後輩必ず死ぬ＃',0,'WSMG',0,'週刊少年マガジン 2024年 No.07に掲載');
 COMMIT;
