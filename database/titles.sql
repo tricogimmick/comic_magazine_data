@@ -782,4 +782,7 @@ INSERT INTO titles VALUES(785,'竜送りのイサギ',1,'ISDW',0,'週刊少年�
 INSERT INTO titles VALUES(786,'盤上のオリオン',1,'WSMG',0,'週刊少年マガジン 2024年 No.06より連載開始');
 INSERT INTO titles VALUES(787,'ちーちゃん',1,'WYMG',0,'週刊ヤングマガジン 2024年 No.07より連載開始');
 INSERT INTO titles VALUES(788,'先輩後輩必ず死ぬ＃',0,'WSMG',0,'週刊少年マガジン 2024年 No.07に掲載');
+INSERT INTO titles VALUES(789,'K2',1,'ICDY',0,'週刊モーニング 2024年 No.07に出張掲載');
+INSERT INTO titles VALUES(790,'VIVA!カローラ',0,'WMRG',0,'第84回ちば賞一般部門大賞受賞作 週刊モーニング 2024年 No.07に掲載');
+INSERT INTO titles VALUES(791,'特別コラボ医療漫画',0,'WMRG',0,'週刊モーニング 2024年 No.07に掲載。');
 COMMIT;
