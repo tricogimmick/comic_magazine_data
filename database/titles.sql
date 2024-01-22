@@ -65,7 +65,7 @@ INSERT INTO titles VALUES(48,'僕が死ぬだけの百物語',1,'WSSD',NULL,NULL
 INSERT INTO titles VALUES(49,'あやしのあやし',1,'WSJP',NULL,NULL);
 INSERT INTO titles VALUES(50,'白山さんと三田さん',1,'WSSD',NULL,NULL);
 INSERT INTO titles VALUES(51,'にゃにゃころびにゃお吉',1,'WSJP',NULL,NULL);
-INSERT INTO titles VALUES(52,'七瀬、ななくせ',1,'WYMG',NULL,NULL);
+INSERT INTO titles VALUES(52,'七瀬、ななくせ',1,'WYMG',NULL,'週刊ヤングマガジン 2023年 No.30, 2024年 No.08に掲載');
 INSERT INTO titles VALUES(53,'さっちゃんは石になった',1,'WSJP',NULL,NULL);
 INSERT INTO titles VALUES(54,'ゴールデンドロップ',1,'WYMG',NULL,NULL);
 INSERT INTO titles VALUES(55,'ゴリせん〜パニックもので真っ先に死ぬタイプの体育教師〜',1,'WYMG',NULL,NULL);
@@ -785,4 +785,7 @@ INSERT INTO titles VALUES(788,'先輩後輩必ず死ぬ＃',0,'WSMG',0,'週刊�
 INSERT INTO titles VALUES(789,'K2',1,'ICDY',0,'週刊モーニング 2024年 No.07に出張掲載');
 INSERT INTO titles VALUES(790,'VIVA!カローラ',0,'WMRG',0,'第84回ちば賞一般部門大賞受賞作 週刊モーニング 2024年 No.07に掲載');
 INSERT INTO titles VALUES(791,'特別コラボ医療漫画',0,'WMRG',0,'週刊モーニング 2024年 No.07に掲載。');
+INSERT INTO titles VALUES(792,'平成敗残兵☆すみれちゃん',1,'WYMG',0,'週刊ヤングマガジン 2024年 No.08より連載開始');
+INSERT INTO titles VALUES(793,'離婚しない男',1,'ICDY',0,'週刊ヤングマガジン 2024年 No.08に出張掲載');
+INSERT INTO titles VALUES(794,'姫様"拷問"の時間です',1,'IJPP',0,'週刊少年ジャンプ 2024年 No.08に出張掲載');
 COMMIT;
