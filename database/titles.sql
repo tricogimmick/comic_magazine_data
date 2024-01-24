@@ -788,4 +788,5 @@ INSERT INTO titles VALUES(791,'特別コラボ医療漫画',0,'WMRG',0,'週刊�
 INSERT INTO titles VALUES(792,'平成敗残兵☆すみれちゃん',1,'WYMG',0,'週刊ヤングマガジン 2024年 No.08より連載開始');
 INSERT INTO titles VALUES(793,'離婚しない男',1,'ICDY',0,'週刊ヤングマガジン 2024年 No.08に出張掲載');
 INSERT INTO titles VALUES(794,'姫様"拷問"の時間です',1,'IJPP',0,'週刊少年ジャンプ 2024年 No.08に出張掲載');
+INSERT INTO titles VALUES(795,'雨ときどき宇宙人',0,'WSSD',0,'第93回新人コミック大賞 少年部門大賞受賞作 週刊少年サンデー 2024年 No.09に掲載。');
 COMMIT;
