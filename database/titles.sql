@@ -789,4 +789,6 @@ INSERT INTO titles VALUES(792,'平成敗残兵☆すみれちゃん',1,'WYMG',0,
 INSERT INTO titles VALUES(793,'離婚しない男',1,'ICDY',0,'週刊ヤングマガジン 2024年 No.08に出張掲載');
 INSERT INTO titles VALUES(794,'姫様"拷問"の時間です',1,'IJPP',0,'週刊少年ジャンプ 2024年 No.08に出張掲載');
 INSERT INTO titles VALUES(795,'雨ときどき宇宙人',0,'WSSD',0,'第93回新人コミック大賞 少年部門大賞受賞作 週刊少年サンデー 2024年 No.09に掲載。');
+INSERT INTO titles VALUES(796,'フルカラ〜スヤサトシ',1,'MAFT',0,'月刊アフタヌーン 2024年03月号より連載開始');
+INSERT INTO titles VALUES(797,'スクエアノット',0,'MAFT',0,'四季賞2023年冬のコンテスト 四季大賞受賞作品 月刊アフタヌーン 2024年03月号に掲載');
 COMMIT;
