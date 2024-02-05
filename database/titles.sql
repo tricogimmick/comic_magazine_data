@@ -796,4 +796,7 @@ INSERT INTO titles VALUES(799,'アイシールド21',0,'WSJP',0,'連載21周年�
 INSERT INTO titles VALUES(800,'も〜っと先輩後輩必ず死ぬ',0,'WSMG',0,'週刊少年マガジン 2024年 No.09に掲載');
 INSERT INTO titles VALUES(801,'それでも僕は神秘のベールを覗きたい！！',0,'WSMG',0,'週刊少年マガジン 2024年 No.09に掲載');
 INSERT INTO titles VALUES(802,'ピタとポロ',0,'WSSD',0,'週刊少年サンデー 2024年 No.10に掲載');
+INSERT INTO titles VALUES(803,'ハイキュー!!番外編',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.10に掲載');
+INSERT INTO titles VALUES(804,'れっつ！ハイキュー！？',0,'WSJP',0,'週刊少年ジャンプ 2024年　No.10に掲載');
+INSERT INTO titles VALUES(805,'今日の魔女たちは',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.10に掲載');
 COMMIT;
