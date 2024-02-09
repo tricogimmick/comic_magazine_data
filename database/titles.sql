@@ -799,4 +799,5 @@ INSERT INTO titles VALUES(802,'ピタとポロ',0,'WSSD',0,'週刊少年サン�
 INSERT INTO titles VALUES(803,'ハイキュー!!番外編',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.10に掲載');
 INSERT INTO titles VALUES(804,'れっつ！ハイキュー！？',0,'WSJP',0,'週刊少年ジャンプ 2024年　No.10に掲載');
 INSERT INTO titles VALUES(805,'今日の魔女たちは',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.10に掲載');
+INSERT INTO titles VALUES(806,'トシャオート',0,'WYMG',0,'ヤンマガWeb 続きを読ませるグランプリ 週刊ヤングマガジン 2024年 No.11に掲載');
 COMMIT;
