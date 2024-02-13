@@ -190,7 +190,7 @@ INSERT INTO titles VALUES(174,'犬と屑',1,'WYMG',NULL,NULL);
 INSERT INTO titles VALUES(175,'夜桜さんちの大作戦',1,'WSJP',NULL,NULL);
 INSERT INTO titles VALUES(176,'双生遊戯',1,'WYMG',NULL,NULL);
 INSERT INTO titles VALUES(177,'影と主',1,'WSJP',NULL,NULL);
-INSERT INTO titles VALUES(178,'超巡！超条先輩',1,'WSJP',NULL,NULL);
+INSERT INTO titles VALUES(178,'超巡！超条先輩（読切り版）',1,'WSJP',NULL,NULL);
 INSERT INTO titles VALUES(179,'クッキングパパ',1,'WMRG',NULL,NULL);
 INSERT INTO titles VALUES(180,'平行線パラベラム',1,'WSSD',NULL,NULL);
 INSERT INTO titles VALUES(181,'コンクリートと花',1,'WSJP',NULL,NULL);
@@ -800,4 +800,6 @@ INSERT INTO titles VALUES(803,'ハイキュー!!番外編',0,'WSJP',0,'週刊少
 INSERT INTO titles VALUES(804,'れっつ！ハイキュー！？',0,'WSJP',0,'週刊少年ジャンプ 2024年　No.10に掲載');
 INSERT INTO titles VALUES(805,'今日の魔女たちは',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.10に掲載');
 INSERT INTO titles VALUES(806,'トシャオート',0,'WYMG',0,'ヤンマガWeb 続きを読ませるグランプリ 週刊ヤングマガジン 2024年 No.11に掲載');
+INSERT INTO titles VALUES(807,'超巡！超条先輩',1,'WSJP',0,'週刊少年ジャンプ 2024年 No.11より連載開始');
+INSERT INTO titles VALUES(808,'人と龍',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.11に掲載');
 COMMIT;
