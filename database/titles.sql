@@ -804,4 +804,6 @@ INSERT INTO titles VALUES(807,'超巡！超条先輩',1,'WSJP',0,'週刊少年�
 INSERT INTO titles VALUES(808,'人と龍',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.11に掲載');
 INSERT INTO titles VALUES(809,'杖と剣のウィストリア',1,'BSMG',0,'週刊少年マガジン 2024年 No.11に出張掲載');
 INSERT INTO titles VALUES(810,'野球教えて！',0,'WSSD',0,'週刊少年サンデー 2024年 No.12に掲載');
+INSERT INTO titles VALUES(811,'ザ・キンクス',1,'ICDY',0,'週刊モーニング 2024年 No.11に出張掲載');
+INSERT INTO titles VALUES(812,'彼は友達',0,'WMRG',0,'週刊モーニング 2024年 No.11に掲載');
 COMMIT;
