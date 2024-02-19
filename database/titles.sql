@@ -806,4 +806,8 @@ INSERT INTO titles VALUES(809,'杖と剣のウィストリア',1,'BSMG',0,'週�
 INSERT INTO titles VALUES(810,'野球教えて！',0,'WSSD',0,'週刊少年サンデー 2024年 No.12に掲載');
 INSERT INTO titles VALUES(811,'ザ・キンクス',1,'ICDY',0,'週刊モーニング 2024年 No.11に出張掲載');
 INSERT INTO titles VALUES(812,'彼は友達',0,'WMRG',0,'週刊モーニング 2024年 No.11に掲載');
+INSERT INTO titles VALUES(813,'Dear Anemone',1,'WSJP',0,'週刊少年ジャンプ 2024年 No.12より連載開始');
+INSERT INTO titles VALUES(814,'笑いたくない糸目さん',0,'WYMG',0,'週刊ヤングマガジン 2024年 No.12 に掲載');
+INSERT INTO titles VALUES(815,'誰も石頭さんには敵わない',0,'WYMG',0,'週刊ヤングマガジン 2024年 No.12 に掲載');
+INSERT INTO titles VALUES(816,'麦茶とパリと君の嘘',0,'WYMG',0,'週刊ヤングマガジン 2024年 No.12 に掲載');
 COMMIT;
