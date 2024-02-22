@@ -810,4 +810,7 @@ INSERT INTO titles VALUES(813,'Dear Anemone',1,'WSJP',0,'週刊少年ジャン�
 INSERT INTO titles VALUES(814,'笑いたくない糸目さん',0,'WYMG',0,'週刊ヤングマガジン 2024年 No.12 に掲載');
 INSERT INTO titles VALUES(815,'誰も石頭さんには敵わない',0,'WYMG',0,'週刊ヤングマガジン 2024年 No.12 に掲載');
 INSERT INTO titles VALUES(816,'麦茶とパリと君の嘘',0,'WYMG',0,'週刊ヤングマガジン 2024年 No.12 に掲載');
+INSERT INTO titles VALUES(817,'「出禁のモグラ」猫漫画',0,'WMRG',0,'週刊モーニング 2024年 No.12に掲載　- 猫漫画フェス特別掲載');
+INSERT INTO titles VALUES(818,'海町猫道中',0,'WMRG',0,'週刊モーニング　2024年 No.12に掲載 - 猫漫画フェス特別掲載');
+INSERT INTO titles VALUES(819,'かわいい猫ちゃん',0,'WMRG',0,'週刊モーニング 2024年 No.12に掲載 - 猫漫画フェス特別掲載');
 COMMIT;
