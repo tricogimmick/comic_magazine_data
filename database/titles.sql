@@ -813,4 +813,8 @@ INSERT INTO titles VALUES(816,'麦茶とパリと君の嘘',0,'WYMG',0,'週刊�
 INSERT INTO titles VALUES(817,'「出禁のモグラ」猫漫画',0,'WMRG',0,'週刊モーニング 2024年 No.12に掲載　- 猫漫画フェス特別掲載');
 INSERT INTO titles VALUES(818,'海町猫道中',0,'WMRG',0,'週刊モーニング　2024年 No.12に掲載 - 猫漫画フェス特別掲載');
 INSERT INTO titles VALUES(819,'かわいい猫ちゃん',0,'WMRG',0,'週刊モーニング 2024年 No.12に掲載 - 猫漫画フェス特別掲載');
+INSERT INTO titles VALUES(820,'STRANGE LOVERS',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.13 に掲載');
+INSERT INTO titles VALUES(821,'煽り飯',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.13に掲載');
+INSERT INTO titles VALUES(822,'ゴールデンマン',1,'WYMG',0,'週刊ヤングマガジン 2024年 No.13より連載開始');
+INSERT INTO titles VALUES(823,'カタカターンッ',0,'MAFT',0,'月刊アフタヌーン 2024年04月号に掲載');
 COMMIT;
