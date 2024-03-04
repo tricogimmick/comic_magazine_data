@@ -820,4 +820,5 @@ INSERT INTO titles VALUES(823,'カタカターンッ',0,'MAFT',0,'月刊アフ�
 INSERT INTO titles VALUES(824,'キヅキノB',0,'WSSD',0,'週刊少年サンデー 2024年 No.14に収録');
 INSERT INTO titles VALUES(825,'坊ちゃんと用心棒',0,'WSMG',0,'週刊少年マガジン 2024年 No.13に掲載');
 INSERT INTO titles VALUES(826,'POLE STAR',1,'WMRG',0,'週刊モーニング 2024年 No.13より連載開始');
+INSERT INTO titles VALUES(827,'花咲ソルジャーズ',1,'WYMG',0,'週刊ヤングマガジン 2024年 No.14より連載開始');
 COMMIT;
