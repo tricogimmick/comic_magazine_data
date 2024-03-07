@@ -821,4 +821,11 @@ INSERT INTO titles VALUES(824,'キヅキノB',0,'WSSD',0,'週刊少年サンデ�
 INSERT INTO titles VALUES(825,'坊ちゃんと用心棒',0,'WSMG',0,'週刊少年マガジン 2024年 No.13に掲載');
 INSERT INTO titles VALUES(826,'POLE STAR',1,'WMRG',0,'週刊モーニング 2024年 No.13より連載開始');
 INSERT INTO titles VALUES(827,'花咲ソルジャーズ',1,'WYMG',0,'週刊ヤングマガジン 2024年 No.14より連載開始');
+INSERT INTO titles VALUES(828,'生徒会にも穴はある！描き下ろし4コマ漫画！！(2)',0,'WSMG',0,'週刊少年マガジン 2024年 No.14に掲載');
+INSERT INTO titles VALUES(829,'はっちぽっちぱんち',1,'IMGP',0,'週刊少年マガジン 2024年 No.14に出張掲載');
+INSERT INTO titles VALUES(830,'MAN OF RUST',1,'IMGP',0,'週刊少年マガジン 2024年 No.14に出張掲載');
+INSERT INTO titles VALUES(831,'東京ジライヤ',1,'BSMG',0,'週刊少年マガジン 2024年 No.14');
+INSERT INTO titles VALUES(832,'ヨイカさんの授業',0,'WMRG',0,'週刊モーニング 2024年 No.14に掲載');
+INSERT INTO titles VALUES(833,'君は冥土様。',1,'ISDW',0,'週刊少年サンデー 2024年 No.15に出張掲載');
+INSERT INTO titles VALUES(834,'異世界整体師タダシ',0,'WSSD',0,'週刊少年サンデー 2024年 No.15に掲載');
 COMMIT;
