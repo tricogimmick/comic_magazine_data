@@ -828,4 +828,14 @@ INSERT INTO titles VALUES(831,'東京ジライヤ',1,'BSMG',0,'週刊少年マ�
 INSERT INTO titles VALUES(832,'ヨイカさんの授業',0,'WMRG',0,'週刊モーニング 2024年 No.14に掲載');
 INSERT INTO titles VALUES(833,'君は冥土様。',1,'ISDW',0,'週刊少年サンデー 2024年 No.15に出張掲載');
 INSERT INTO titles VALUES(834,'異世界整体師タダシ',0,'WSSD',0,'週刊少年サンデー 2024年 No.15に掲載');
+INSERT INTO titles VALUES(835,'ヒーローが揃わない',0,'WYMG',0,'週刊ヤングマガジン 2024年 No.15に掲載');
+INSERT INTO titles VALUES(836,'レベリオン',1,'WYMG',0,'週刊ヤングマガジン 2024年 No.16より連載開始');
+INSERT INTO titles VALUES(837,'鍋はクソ楽',0,'WYMG',0,'週刊ヤングマガジン 2024年 No.16に収録');
+INSERT INTO titles VALUES(838,'銭湯',0,'WYMG',0,'週刊ヤングマガジン 2024年 No.16に収録');
+INSERT INTO titles VALUES(839,'念願の悪役令嬢の身体を手に入れたぞ！',1,'IMGP',0,'週刊少年マガジン 2024年 No.15に出張掲載');
+INSERT INTO titles VALUES(840,'リスナーに騙されてダンジョンの最下層から脱出RTAすることになった',1,'IMGP',0,'週刊少年マガジン 2024年 No.15に出張掲載');
+INSERT INTO titles VALUES(841,'だいすき！いとしのムーコ',1,'ICDY',0,'週刊モーニング 2024年 No.15に出張掲載');
+INSERT INTO titles VALUES(842,'霧丸奇譚',0,'WSSD',0,'週刊少年サンデー2024年 No.16に掲載。');
+INSERT INTO titles VALUES(843,'空への標',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.15に掲載');
+INSERT INTO titles VALUES(844,'ゴースト・ワーカホリック',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.16に掲載');
 COMMIT;
