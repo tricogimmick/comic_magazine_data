@@ -838,4 +838,6 @@ INSERT INTO titles VALUES(841,'だいすき！いとしのムーコ',1,'ICDY',0,
 INSERT INTO titles VALUES(842,'霧丸奇譚',0,'WSSD',0,'週刊少年サンデー2024年 No.16に掲載。');
 INSERT INTO titles VALUES(843,'空への標',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.15に掲載');
 INSERT INTO titles VALUES(844,'ゴースト・ワーカホリック',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.16に掲載');
+INSERT INTO titles VALUES(845,'アイドルマスター シャイニーカラーズ 事務的光空記録',1,'ISDW',0,'週刊少年サンデー 2024年 No.17');
+INSERT INTO titles VALUES(846,'亡失の恋人',0,'WSSD',0,'週刊少年サンデー 2024年 No.17に掲載');
 COMMIT;
