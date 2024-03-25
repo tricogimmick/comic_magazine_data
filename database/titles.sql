@@ -840,4 +840,8 @@ INSERT INTO titles VALUES(843,'空への標',0,'WSJP',0,'週刊少年ジャン�
 INSERT INTO titles VALUES(844,'ゴースト・ワーカホリック',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.16に掲載');
 INSERT INTO titles VALUES(845,'アイドルマスター シャイニーカラーズ 事務的光空記録',1,'ISDW',0,'週刊少年サンデー 2024年 No.17');
 INSERT INTO titles VALUES(846,'亡失の恋人',0,'WSSD',0,'週刊少年サンデー 2024年 No.17に掲載');
+INSERT INTO titles VALUES(847,'好きなオトコと別れたい',1,'WCTI',0,'週刊ヤングマガジン 2024年 No.17に出張掲載');
+INSERT INTO titles VALUES(848,'真実は私だけが知っている',0,'MAFT',0,'月刊アフタヌーン 2024年5月号に掲載');
+INSERT INTO titles VALUES(849,'かまくらBAKE猫倶楽部',1,'MBLV',0,'月刊アフタヌーン 2024年5月号に掲載');
+INSERT INTO titles VALUES(850,'ハコニワノイエ',1,'MBLV',0,'月刊アフタヌーン 2024年5月号に出張掲載');
 COMMIT;

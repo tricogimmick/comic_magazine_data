@@ -23,4 +23,6 @@ INSERT INTO magazines VALUES('MYMG','月刊ヤングマガジン','講談社',''
 INSERT INTO magazines VALUES('IMR2','モーニング・ツー','講談社','');
 INSERT INTO magazines VALUES('ICDY','コミックDAYS','講談社',NULL);
 INSERT INTO magazines VALUES('IJPP','少年ジャンプ＋','集英社',NULL);
+INSERT INTO magazines VALUES('WCTI','comic tint','講談社',NULL);
+INSERT INTO magazines VALUES('MBLV','BE・LOVE','講談社',NULL);
 COMMIT;
