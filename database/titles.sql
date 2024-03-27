@@ -97,7 +97,7 @@ INSERT INTO titles VALUES(80,'捨てられた転生賢者～魔物の森で最�
 INSERT INTO titles VALUES(81,'ヒストリエ',1,'MAFT',NULL,NULL);
 INSERT INTO titles VALUES(82,'隣の黒木さんは飲むとヤバイ',1,'WSMG',NULL,NULL);
 INSERT INTO titles VALUES(83,'楽屋のトナくん',1,'WMRG',NULL,NULL);
-INSERT INTO titles VALUES(84,'写らナイんです',1,'WSSD',NULL,NULL);
+INSERT INTO titles VALUES(84,'写らナインです（読切り版）',1,'WSSD',NULL,NULL);
 INSERT INTO titles VALUES(85,'最弱！！ジェノサイドクイーン',1,'WSJP',NULL,NULL);
 INSERT INTO titles VALUES(86,'魔界刑事マリボー',1,'WSJP',NULL,NULL);
 INSERT INTO titles VALUES(87,'化けニャンコマスター梅吉',1,'WSJP',NULL,NULL);
@@ -844,4 +844,7 @@ INSERT INTO titles VALUES(847,'好きなオトコと別れたい',1,'WCTI',0,'�
 INSERT INTO titles VALUES(848,'真実は私だけが知っている',0,'MAFT',0,'月刊アフタヌーン 2024年5月号に掲載');
 INSERT INTO titles VALUES(849,'かまくらBAKE猫倶楽部',1,'MBLV',0,'月刊アフタヌーン 2024年5月号に掲載');
 INSERT INTO titles VALUES(850,'ハコニワノイエ',1,'MBLV',0,'月刊アフタヌーン 2024年5月号に出張掲載');
+INSERT INTO titles VALUES(851,'方向音痴の道の果て',0,'WSSD',0,'週刊少年サンデー 2024年 No.18に掲載　65周年記念読切り連弾 第3弾');
+INSERT INTO titles VALUES(852,'写らナインです',1,'WSSD',0,'週刊少年サンデー 2024年 No.18より連載開始 ');
+INSERT INTO titles VALUES(853,'転生したら第七王子だったので、気ままに魔術を極めます',1,'IMGP',0,'週刊少年マガジン 2024年 No.17 に出張掲載');
 COMMIT;
