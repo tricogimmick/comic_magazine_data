@@ -847,4 +847,5 @@ INSERT INTO titles VALUES(850,'ハコニワノイエ',1,'MBLV',0,'月刊アフ�
 INSERT INTO titles VALUES(851,'方向音痴の道の果て',0,'WSSD',0,'週刊少年サンデー 2024年 No.18に掲載　65周年記念読切り連弾 第3弾');
 INSERT INTO titles VALUES(852,'写らナインです',1,'WSSD',0,'週刊少年サンデー 2024年 No.18より連載開始 ');
 INSERT INTO titles VALUES(853,'転生したら第七王子だったので、気ままに魔術を極めます',1,'IMGP',0,'週刊少年マガジン 2024年 No.17 に出張掲載');
+INSERT INTO titles VALUES(854,'落合博満のオレ流転生',1,'WMRG',0,'週刊モーニング 2024年 No.17より連載開始');
 COMMIT;
