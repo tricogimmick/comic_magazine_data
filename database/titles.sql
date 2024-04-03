@@ -849,4 +849,9 @@ INSERT INTO titles VALUES(852,'写らナインです',1,'WSSD',0,'週刊少年�
 INSERT INTO titles VALUES(853,'転生したら第七王子だったので、気ままに魔術を極めます',1,'IMGP',0,'週刊少年マガジン 2024年 No.17 に出張掲載');
 INSERT INTO titles VALUES(854,'落合博満のオレ流転生',1,'WMRG',0,'週刊モーニング 2024年 No.17より連載開始');
 INSERT INTO titles VALUES(855,'となりのホーム',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.18に掲載');
+INSERT INTO titles VALUES(856,'魔法使いババアン',0,'WSSD',0,'週刊少年サンデー 2024年 No.19に掲載。SSS賞入選作');
+INSERT INTO titles VALUES(857,'キシダヨウタマン',0,'WSSD',0,'週刊少年サンデー 2024年　No.19に掲載。65周年記念読切り連弾 第4弾');
+INSERT INTO titles VALUES(858,'ロッカロック',1,'WSSD',0,'週刊少年サンデー 2024年 No.19より連載開始');
+INSERT INTO titles VALUES(859,'先輩後輩必ず死ぬドッカ〜ン！',0,'WSMG',0,'週刊少年マガジン 2024年 No.18に掲載');
+INSERT INTO titles VALUES(860,'軍神のタクト',1,'IMGP',0,'週刊少年マガジン 2024年 No.18 に出張掲載');
 COMMIT;
