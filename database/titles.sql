@@ -854,4 +854,7 @@ INSERT INTO titles VALUES(857,'キシダヨウタマン',0,'WSSD',0,'週刊少�
 INSERT INTO titles VALUES(858,'ロッカロック',1,'WSSD',0,'週刊少年サンデー 2024年 No.19より連載開始');
 INSERT INTO titles VALUES(859,'先輩後輩必ず死ぬドッカ〜ン！',0,'WSMG',0,'週刊少年マガジン 2024年 No.18に掲載');
 INSERT INTO titles VALUES(860,'軍神のタクト',1,'IMGP',0,'週刊少年マガジン 2024年 No.18 に出張掲載');
+INSERT INTO titles VALUES(861,'ドラマな恋は基本から',1,'WMRG',0,'週刊モーニング 2024年 No.18より連載開始');
+INSERT INTO titles VALUES(862,'はかばなし',1,'WYMG',0,'週刊ヤングマガジン 2024年 No.19 より連載開始');
+INSERT INTO titles VALUES(863,'サダオがいる家',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.19に掲載');
 COMMIT;
