@@ -857,4 +857,8 @@ INSERT INTO titles VALUES(860,'軍神のタクト',1,'IMGP',0,'週刊少年マ�
 INSERT INTO titles VALUES(861,'ドラマな恋は基本から',1,'WMRG',0,'週刊モーニング 2024年 No.18より連載開始');
 INSERT INTO titles VALUES(862,'はかばなし',1,'WYMG',0,'週刊ヤングマガジン 2024年 No.19 より連載開始');
 INSERT INTO titles VALUES(863,'サダオがいる家',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.19に掲載');
+INSERT INTO titles VALUES(864,'阿武ノーマル',1,'IMGP',0,'週刊少年マガジン 2024年 No.19に出張掲載');
+INSERT INTO titles VALUES(865,'アガルタゲーム',1,'IMGP',0,'週刊少年マガジン 2024年 No.19に出張掲載。');
+INSERT INTO titles VALUES(866,'懐かしく思う君は誰',1,'IMGP',0,'週刊少年マガジン 2024年 No.19に出張掲載。');
+INSERT INTO titles VALUES(867,'まじっく快斗',1,'WSSD',0,'週刊少年サンデー 2024年 No.20 より新シリーズ開始');
 COMMIT;
