@@ -861,4 +861,9 @@ INSERT INTO titles VALUES(864,'阿武ノーマル',1,'IMGP',0,'週刊少年マ�
 INSERT INTO titles VALUES(865,'アガルタゲーム',1,'IMGP',0,'週刊少年マガジン 2024年 No.19に出張掲載。');
 INSERT INTO titles VALUES(866,'懐かしく思う君は誰',1,'IMGP',0,'週刊少年マガジン 2024年 No.19に出張掲載。');
 INSERT INTO titles VALUES(867,'まじっく快斗',1,'WSSD',0,'週刊少年サンデー 2024年 No.20 より新シリーズ開始');
+INSERT INTO titles VALUES(868,'きょうのお昼はなんですか？',1,'ICDY',0,'週刊モーニング 2024年　No.19 に出張掲載');
+INSERT INTO titles VALUES(869,'LIFE GOES ON',0,'WYMG',0,'週刊ヤングマガジン 2024年 No.20 に掲載');
+INSERT INTO titles VALUES(870,'バブっちゃう！騎士団長エルフさん',0,'WYMG',0,'週刊ヤングマガジン 2024年 No.20 に掲載');
+INSERT INTO titles VALUES(871,'願いのアストロ',1,'WSJP',0,'週刊少年ジャンプ 2024年 No.20 より連載開始');
+INSERT INTO titles VALUES(872,'MM-ミリメートル-',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.20 に掲載');
 COMMIT;
