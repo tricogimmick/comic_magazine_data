@@ -866,4 +866,7 @@ INSERT INTO titles VALUES(869,'LIFE GOES ON',0,'WYMG',0,'週刊ヤングマガ�
 INSERT INTO titles VALUES(870,'バブっちゃう！騎士団長エルフさん',0,'WYMG',0,'週刊ヤングマガジン 2024年 No.20 に掲載');
 INSERT INTO titles VALUES(871,'願いのアストロ',1,'WSJP',0,'週刊少年ジャンプ 2024年 No.20 より連載開始');
 INSERT INTO titles VALUES(872,'MM-ミリメートル-',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.20 に掲載');
+INSERT INTO titles VALUES(873,'異世界町工場無双',1,'WMRG',0,'週刊モーニング 2024年 No.20より連載開始');
+INSERT INTO titles VALUES(874,'悪魔の相続人',0,'WSMG',0,'週刊少年マガジン 2024年 No.20 に掲載');
+INSERT INTO titles VALUES(875,'ハンドレッドノート－高校生探偵 天命大地－',1,'IMGP',0,'週刊少年マガジン 2024年 No.20 に出張掲載');
 COMMIT;
