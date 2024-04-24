@@ -872,4 +872,7 @@ INSERT INTO titles VALUES(875,'ハンドレッドノート－高校生探偵 天
 INSERT INTO titles VALUES(876,'ふたりシネマ',0,'WYMG',0,'週刊ヤングマガジン 2024年 No.21・22合併号に掲載');
 INSERT INTO titles VALUES(877,'悪の組織の悪いボス',0,'WYMG',0,'週刊ヤングマガジン 2024年 No.21・22合併号に掲載');
 INSERT INTO titles VALUES(878,'極東ネクロマンス',1,'WSJP',0,'週刊少年ジャンプ 2024年 No.21より連載開始');
+INSERT INTO titles VALUES(879,'青のミブロ -新撰組編-',1,'WSMG',0,'週刊少年マガジン 2024年 No.21・22合併号より連載開始');
+INSERT INTO titles VALUES(880,'白い檻',0,'WSMG',0,'週刊少年マガジン 2024年 No.21・22合併号に掲載');
+INSERT INTO titles VALUES(881,'ハローワークモンスターズ',1,'WSSD',0,'週刊少年サンデー 2024年 No.22・23合併号より連載開始');
 COMMIT;
