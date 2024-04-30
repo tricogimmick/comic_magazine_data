@@ -876,4 +876,5 @@ INSERT INTO titles VALUES(879,'青のミブロ -新撰組編-',1,'WSMG',0,'週�
 INSERT INTO titles VALUES(880,'白い檻',0,'WSMG',0,'週刊少年マガジン 2024年 No.21・22合併号に掲載');
 INSERT INTO titles VALUES(881,'ハローワークモンスターズ',1,'WSSD',0,'週刊少年サンデー 2024年 No.22・23合併号より連載開始');
 INSERT INTO titles VALUES(882,'果たされない歌',0,'MAFT',0,'月刊アフタヌーン 2024年6月号に掲載。四季賞2024年春のコンテスト　四季大賞受賞作品');
+INSERT INTO titles VALUES(883,'仮面奇譚テオ',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.22・23合併号に掲載');
 COMMIT;
