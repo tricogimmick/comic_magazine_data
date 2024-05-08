@@ -104,7 +104,7 @@ INSERT INTO titles VALUES(87,'化けニャンコマスター梅吉',1,'WSJP',NUL
 INSERT INTO titles VALUES(88,'彼女のエレジー',1,'WYMG',NULL,NULL);
 INSERT INTO titles VALUES(89,'根暗闇蔵',1,'WSJP',NULL,NULL);
 INSERT INTO titles VALUES(90,'エクソシストのキヨシ君',1,'WSJP',NULL,NULL);
-INSERT INTO titles VALUES(91,'カナンさまはあくまでチョロい',1,'WSMG',NULL,NULL);
+INSERT INTO titles VALUES(91,'カナン様はあくまでチョロい',1,'WSMG',NULL,NULL);
 INSERT INTO titles VALUES(92,'艦隊のシェフ',1,'WMRG',NULL,NULL);
 INSERT INTO titles VALUES(93,'INVADE',1,'WSJP',NULL,NULL);
 INSERT INTO titles VALUES(94,'超狙われ体質の俺が捨てシークレットサービスを拾った件',1,'WSJP',NULL,NULL);
@@ -877,4 +877,9 @@ INSERT INTO titles VALUES(880,'白い檻',0,'WSMG',0,'週刊少年マガジン 2
 INSERT INTO titles VALUES(881,'ハローワークモンスターズ',1,'WSSD',0,'週刊少年サンデー 2024年 No.22・23合併号より連載開始');
 INSERT INTO titles VALUES(882,'果たされない歌',0,'MAFT',0,'月刊アフタヌーン 2024年6月号に掲載。四季賞2024年春のコンテスト　四季大賞受賞作品');
 INSERT INTO titles VALUES(883,'仮面奇譚テオ',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.22・23合併号に掲載');
+INSERT INTO titles VALUES(884,'カミサマの御膳です',0,'WSMG',0,'週刊少年マガジン 2024年 No.23に収録');
+INSERT INTO titles VALUES(885,'クレイターズシンクス',1,'BSMG',0,'週刊少年マガジン2024年 No.23に出張掲載');
+INSERT INTO titles VALUES(886,'これだけあればいい',0,'WSMG',0,'週刊少年マガジン 2024年 No.23 に掲載');
+INSERT INTO titles VALUES(887,'ととのえねぇ',0,'WYMG',0,'週刊ヤングマガジン 2024年 No.23に掲載');
+INSERT INTO titles VALUES(888,'カグライ-神楽と雷神-',0,'WSSD',0,'週刊少年サンデー 2024年 No.24に掲載');
 COMMIT;
