@@ -884,4 +884,9 @@ INSERT INTO titles VALUES(887,'ととのえねぇ',0,'WYMG',0,'週刊ヤング�
 INSERT INTO titles VALUES(888,'カグライ-神楽と雷神-',0,'WSSD',0,'週刊少年サンデー 2024年 No.24に掲載');
 INSERT INTO titles VALUES(889,'ねずみロワイヤル',1,'IYMW',0,'週刊ヤングマガジン 2024年 No.24 に出張掲載');
 INSERT INTO titles VALUES(890,'さいくるびより',1,'WSJP',0,'週刊少年ジャンプ 2024年 No.24より連載開始');
+INSERT INTO titles VALUES(891,'魔女と傭兵',1,'IMGP',0,'週刊少年マガジン 2024年 No.24に出張掲載');
+INSERT INTO titles VALUES(892,'夜のクラゲは泳げない',1,'IMGP',0,'週刊少年マガジン 2024年　No.24に出張掲載');
+INSERT INTO titles VALUES(893,'安斎さんは致し方がわからない',0,'WSMG',0,'週刊少年マガジン 2024年 No.24に掲載');
+INSERT INTO titles VALUES(894,'廻天のアルバス',1,'WSSD',0,'週刊少年サンデー 2024年 No.25より連載開始');
+INSERT INTO titles VALUES(895,'幻狼潜戦',1,'ISDW',0,'週刊少年サンデー 2024年 No.25 に出張掲載');
 COMMIT;
