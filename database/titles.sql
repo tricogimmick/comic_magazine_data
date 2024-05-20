@@ -891,4 +891,6 @@ INSERT INTO titles VALUES(894,'廻天のアルバス',1,'WSSD',0,'週刊少年�
 INSERT INTO titles VALUES(895,'幻狼潜戦',1,'ISDW',0,'週刊少年サンデー 2024年 No.25 に出張掲載');
 INSERT INTO titles VALUES(896,'どう頑張ってもHになっちゃう幼なじみ',1,'IYMW',0,'週刊ヤングマガジン 2024年 No.25に出張掲載');
 INSERT INTO titles VALUES(897,'シガンバナ',1,'WYMG',0,'週刊少年マガジン 2024年 No.25より新連載');
+INSERT INTO titles VALUES(898,'洋平の変',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.25に掲載');
+INSERT INTO titles VALUES(899,'ジャンプと僕',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.25 に掲載');
 COMMIT;
