@@ -893,4 +893,7 @@ INSERT INTO titles VALUES(896,'どう頑張ってもHになっちゃう幼なじ
 INSERT INTO titles VALUES(897,'シガンバナ',1,'WYMG',0,'週刊少年マガジン 2024年 No.25より新連載');
 INSERT INTO titles VALUES(898,'洋平の変',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.25に掲載');
 INSERT INTO titles VALUES(899,'ジャンプと僕',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.25 に掲載');
+INSERT INTO titles VALUES(900,'十字架のろくにん',1,'IMGP',0,'週刊少年マガジン 2024年 No.25に出張掲載（描き下ろし読切り）');
+INSERT INTO titles VALUES(901,'Sea WITCH',0,'WSMG',0,'週刊少年マガジン 2024年 No.25に掲載');
+INSERT INTO titles VALUES(902,'古々路ひめるの全秘密',1,'WSSD',0,'週刊少年マガジン 2024年 No.26より連載開始');
 COMMIT;
