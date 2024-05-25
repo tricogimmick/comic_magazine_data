@@ -896,4 +896,5 @@ INSERT INTO titles VALUES(899,'ジャンプと僕',0,'WSJP',0,'週刊少年ジ�
 INSERT INTO titles VALUES(900,'十字架のろくにん',1,'IMGP',0,'週刊少年マガジン 2024年 No.25に出張掲載（描き下ろし読切り）');
 INSERT INTO titles VALUES(901,'Sea WITCH',0,'WSMG',0,'週刊少年マガジン 2024年 No.25に掲載');
 INSERT INTO titles VALUES(902,'古々路ひめるの全秘密',1,'WSSD',0,'週刊少年マガジン 2024年 No.26より連載開始');
+INSERT INTO titles VALUES(903,'ブラックカラー 〜悪の組織をマネジメント〜',1,'WMRG',0,'週刊モーニング 2024年 No.25より連載開始');
 COMMIT;
