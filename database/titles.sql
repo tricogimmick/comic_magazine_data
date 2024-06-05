@@ -903,4 +903,5 @@ INSERT INTO titles VALUES(906,'灰仭巫覡',1,'WSMG',0,'週刊少年マガジ�
 INSERT INTO titles VALUES(907,'無双！迷走！妄想探偵リズ！',0,'WYMG',0,'週刊ヤングマガジン 2024年 No.27に掲載');
 INSERT INTO titles VALUES(908,'夜を泳ぐ魚たちは',0,'WYMG',0,'週刊ヤングマガジン 2024年 No.27 に掲載。第90回ちばてつや賞ヤング部門大賞受賞作');
 INSERT INTO titles VALUES(909,'でんでんナイト',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.27 に掲載');
+INSERT INTO titles VALUES(910,'時間割の外',1,'WSSD',0,'週刊少年サンデー 2024年 No.28より短期集中連載（全3回）');
 COMMIT;
