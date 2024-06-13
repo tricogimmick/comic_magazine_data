@@ -647,4 +647,5 @@ INSERT INTO issues VALUES('WYMG202428','WYMG','2024年 No.28','https://i.gyazo.c
 INSERT INTO issues VALUES('WSJP202428','WSJP','2024年 No.28','https://i.gyazo.com/83eefca9c0fe7e666d4f441632b76436.png','https://i.gyazo.com/a378c5010cf93c7fab19fc09487ef360.png','');
 INSERT INTO issues VALUES('WSMG202428','WSMG','2024年 No.28','https://i.gyazo.com/1e909b8abbe494b8aaa3cbbe388710b9.png','https://i.gyazo.com/712ad8cfa33c5576ee1fa64f65ffc627.png','');
 INSERT INTO issues VALUES('WSSD202429','WSSD','2024年 No.29','https://i.gyazo.com/43893ee74cfbce3704638e3a05279128.png','https://i.gyazo.com/0d89d6019dca9086cd4ff07729a941ff.png','');
+INSERT INTO issues VALUES('WMRG202428','WMRG','2024年 No.28','https://i.gyazo.com/ecd08a5fb7ab70691e0029d190945c89.png','https://i.gyazo.com/c9231b9c5b282a3e0d3be1d269c55a7d.png','');
 COMMIT;
