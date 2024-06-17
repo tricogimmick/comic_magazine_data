@@ -907,4 +907,7 @@ INSERT INTO titles VALUES(910,'時間割の外',1,'WSSD',0,'週刊少年サン�
 INSERT INTO titles VALUES(911,'失せモノ探し',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.28 に掲載');
 INSERT INTO titles VALUES(912,'ラブフォーティー',1,'WSMG',0,'週刊少年マガジン 2024年 No.28より連載開始');
 INSERT INTO titles VALUES(913,'ロングスカートは靡いて',0,'WSMG',0,'週刊少年マガジン 2024年 No.28に掲載');
+INSERT INTO titles VALUES(914,'妖怪バスター村上',1,'WSJP',0,'週刊少年ジャンプ 2024年 No.29より連載開始');
+INSERT INTO titles VALUES(915,'鬼十郎と姫の龍探し',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.29に掲載');
+INSERT INTO titles VALUES(916,'PEEP',1,'WYMG',0,'週刊ヤングマガジン 2024年 No.29より連載開始');
 COMMIT;
