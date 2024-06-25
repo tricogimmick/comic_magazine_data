@@ -913,4 +913,7 @@ INSERT INTO titles VALUES(916,'PEEP',1,'WYMG',0,'週刊ヤングマガジン 202
 INSERT INTO titles VALUES(917,'大海に響くコール',1,'ISDW',0,'週刊少年サンデー 2024年 No.30に掲載');
 INSERT INTO titles VALUES(918,'票読みのヴィクトリア',1,'WMRG',0,'週刊モーニング 2024年 No.29より連載開始');
 INSERT INTO titles VALUES(919,'珍味道場',0,'WMRG',0,'週刊モーニング 2024年 No.29に掲載');
+INSERT INTO titles VALUES(920,'悪祓士のキヨシくん',1,'WSJP',0,'週刊少年ジャンプ 2024年 No.30より連載開始');
+INSERT INTO titles VALUES(921,'花の君',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.30に掲載');
+INSERT INTO titles VALUES(922,'アマチュアビジランテ',1,'WYMG',0,'週刊ヤングマガジン 2024年 No.30より連載開始');
 COMMIT;
