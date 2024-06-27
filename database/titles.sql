@@ -918,4 +918,5 @@ INSERT INTO titles VALUES(921,'花の君',0,'WSJP',0,'週刊少年ジャンプ 2
 INSERT INTO titles VALUES(922,'アマチュアビジランテ',1,'WYMG',0,'週刊ヤングマガジン 2024年 No.30より連載開始');
 INSERT INTO titles VALUES(923,'いづれあやめか',0,'WSSD',0,'週刊少年サンデー 2024年 No.31に掲載');
 INSERT INTO titles VALUES(924,'OMORI',1,'MAFT',0,'月刊アフタヌーン 2024年08月号より連載開始');
+INSERT INTO titles VALUES(925,'まんペン',1,'WMRG',0,'週刊モーニング 2024年 No.30より連載開始');
 COMMIT;
