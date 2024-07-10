@@ -928,4 +928,5 @@ INSERT INTO titles VALUES(931,'FAIRY TAIL（特別読切り版）',0,'WSMG',0,'�
 INSERT INTO titles VALUES(932,'古を稽える',0,'WSSD',0,'週刊少年サンデー 2024年 No.31に掲載 夏の読切連弾第2弾！');
 INSERT INTO titles VALUES(933,'怪獣カムイ',1,'WYMG',0,'週刊ヤングマガジン 2024年 No.32より連載開始');
 INSERT INTO titles VALUES(934,'ひまてん！',1,'WSJP',0,'週刊少年ジャンプ 2024年 No.32 より連載開始');
+INSERT INTO titles VALUES(935,'或る門番',0,'WSSD',0,'週刊少年サンデー 2024年 No.33に掲載　夏の読切連弾第3弾！');
 COMMIT;
