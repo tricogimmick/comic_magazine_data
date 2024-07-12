@@ -930,4 +930,5 @@ INSERT INTO titles VALUES(933,'怪獣カムイ',1,'WYMG',0,'週刊ヤングマ�
 INSERT INTO titles VALUES(934,'ひまてん！',1,'WSJP',0,'週刊少年ジャンプ 2024年 No.32 より連載開始');
 INSERT INTO titles VALUES(935,'或る門番',0,'WSSD',0,'週刊少年サンデー 2024年 No.33に掲載　夏の読切連弾第3弾！');
 INSERT INTO titles VALUES(936,'よき法律家は悪しき隣人',1,'WMRG',0,'週刊モーニング 2024年 No.32より連載開始');
+INSERT INTO titles VALUES(937,'イジメ０の学校',1,'WYMG',0,'週刊ヤングマガジン 2024年 No.33より連載開始');
 COMMIT;
