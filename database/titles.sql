@@ -535,7 +535,7 @@ INSERT INTO titles VALUES(527,'パンダと極道',1,'WMRG',NULL,NULL);
 INSERT INTO titles VALUES(528,'蒼穹のアリアドネ',1,'WSSD',NULL,NULL);
 INSERT INTO titles VALUES(529,'雨夜の月',1,'WYMG',NULL,NULL);
 INSERT INTO titles VALUES(530,'徘徊者',1,'WYMG',NULL,NULL);
-INSERT INTO titles VALUES(531,'GALAXIAS',1,'WSMG',NULL,NULL);
+INSERT INTO titles VALUES(531,'GALAXIAS(読切版)',1,'WSMG',NULL,NULL);
 INSERT INTO titles VALUES(532,'MFゴースト',1,'WYMG',NULL,NULL);
 INSERT INTO titles VALUES(533,'トップウGP',1,'MAFT',NULL,NULL);
 INSERT INTO titles VALUES(534,'父の観察',1,'WMRG',NULL,NULL);
@@ -931,4 +931,7 @@ INSERT INTO titles VALUES(934,'ひまてん！',1,'WSJP',0,'週刊少年ジャ�
 INSERT INTO titles VALUES(935,'或る門番',0,'WSSD',0,'週刊少年サンデー 2024年 No.33に掲載　夏の読切連弾第3弾！');
 INSERT INTO titles VALUES(936,'よき法律家は悪しき隣人',1,'WMRG',0,'週刊モーニング 2024年 No.32より連載開始');
 INSERT INTO titles VALUES(937,'イジメ０の学校',1,'WYMG',0,'週刊ヤングマガジン 2024年 No.33より連載開始');
+INSERT INTO titles VALUES(938,'大怪獣！アカリちゃん',0,'WSSD',0,'週刊少年サンデー 2024年 No.34 に掲載。夏の読切連弾　第4弾');
+INSERT INTO titles VALUES(939,'GALAXIAS',1,'WSMG',0,'週刊少年マガジン 2024年 No.33より連載開始');
+INSERT INTO titles VALUES(940,'マティーニをひとつ。シェイクではなくステアで。',0,'WSMG',0,'週刊少年マガジン 2024年 No.33に掲載');
 COMMIT;
