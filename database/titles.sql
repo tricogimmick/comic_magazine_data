@@ -934,4 +934,5 @@ INSERT INTO titles VALUES(937,'イジメ０の学校',1,'WYMG',0,'週刊ヤン�
 INSERT INTO titles VALUES(938,'大怪獣！アカリちゃん',0,'WSSD',0,'週刊少年サンデー 2024年 No.34 に掲載。夏の読切連弾　第4弾');
 INSERT INTO titles VALUES(939,'GALAXIAS',1,'WSMG',0,'週刊少年マガジン 2024年 No.33より連載開始');
 INSERT INTO titles VALUES(940,'マティーニをひとつ。シェイクではなくステアで。',0,'WSMG',0,'週刊少年マガジン 2024年 No.33に掲載');
+INSERT INTO titles VALUES(941,'織田ちゃんと明智くん',1,'WMRG',0,'週刊モーニング 2024年 No.33より連載開始');
 COMMIT;
