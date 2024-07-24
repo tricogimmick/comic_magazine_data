@@ -936,4 +936,6 @@ INSERT INTO titles VALUES(939,'GALAXIAS',1,'WSMG',0,'週刊少年マガジン 20
 INSERT INTO titles VALUES(940,'マティーニをひとつ。シェイクではなくステアで。',0,'WSMG',0,'週刊少年マガジン 2024年 No.33に掲載');
 INSERT INTO titles VALUES(941,'織田ちゃんと明智くん',1,'WMRG',0,'週刊モーニング 2024年 No.33より連載開始');
 INSERT INTO titles VALUES(942,'メメント・イン九龍',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.34に掲載');
+INSERT INTO titles VALUES(943,'魔王の娘は、死にたくない。',0,'WSSD',0,'週刊少年サンデー 2024年 No.35に掲載。夏の読切連弾第5弾。');
+INSERT INTO titles VALUES(944,'鉄脚のリョーコ',0,'WSSD',0,'週刊少年サンデー 2024年 No.35に掲載。サンデールーキー・王座決定戦優勝作品');
 COMMIT;
