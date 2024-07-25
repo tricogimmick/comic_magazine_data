@@ -938,4 +938,8 @@ INSERT INTO titles VALUES(941,'織田ちゃんと明智くん',1,'WMRG',0,'週�
 INSERT INTO titles VALUES(942,'メメント・イン九龍',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.34に掲載');
 INSERT INTO titles VALUES(943,'魔王の娘は、死にたくない。',0,'WSSD',0,'週刊少年サンデー 2024年 No.35に掲載。夏の読切連弾第5弾。');
 INSERT INTO titles VALUES(944,'鉄脚のリョーコ',0,'WSSD',0,'週刊少年サンデー 2024年 No.35に掲載。サンデールーキー・王座決定戦優勝作品');
+INSERT INTO titles VALUES(945,'アパレルドッグ',1,'WMRG',0,'週刊モーニング 2024年 No.34より連載開始');
+INSERT INTO titles VALUES(946,'こここことばは籠の中',0,'WMRG',0,'週刊モーニング 2024年 No.34に掲載。第85回ちばてつや賞一般部門大賞受賞作');
+INSERT INTO titles VALUES(947,'しかし火事獅子歌詞可視化',1,'WASF',0,'月刊アフタヌーン 2024年09月号に出張掲載');
+INSERT INTO titles VALUES(948,'六年目の浦島太郎',0,'',0,'月刊アフタヌーン 2024年09月号掲載。アフタヌーン四季賞2024夏 四季大賞受賞作');
 COMMIT;

@@ -25,4 +25,5 @@ INSERT INTO magazines VALUES('ICDY','コミックDAYS','講談社',NULL);
 INSERT INTO magazines VALUES('IJPP','少年ジャンプ＋','集英社',NULL);
 INSERT INTO magazines VALUES('WCTI','comic tint','講談社',NULL);
 INSERT INTO magazines VALUES('MBLV','BE・LOVE','講談社',NULL);
+INSERT INTO magazines VALUES('WASF','&Sofa','講談社','');
 COMMIT;
