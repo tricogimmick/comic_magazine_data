@@ -942,4 +942,8 @@ INSERT INTO titles VALUES(945,'アパレルドッグ',1,'WMRG',0,'週刊モー�
 INSERT INTO titles VALUES(946,'こここことばは籠の中',0,'WMRG',0,'週刊モーニング 2024年 No.34に掲載。第85回ちばてつや賞一般部門大賞受賞作');
 INSERT INTO titles VALUES(947,'しかし火事獅子歌詞可視化',1,'WASF',0,'月刊アフタヌーン 2024年09月号に出張掲載');
 INSERT INTO titles VALUES(948,'六年目の浦島太郎',0,'',0,'月刊アフタヌーン 2024年09月号掲載。アフタヌーン四季賞2024夏 四季大賞受賞作');
+INSERT INTO titles VALUES(949,'化け狐の執心',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.35に掲載');
+INSERT INTO titles VALUES(950,'僕のヒーローアカデミア特別スピンオフ CONNECT TO THE DAY',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.35に掲載');
+INSERT INTO titles VALUES(951,'おっぱいのせいで留年するわけない！',0,'WYMG',0,'週刊ヤングマガジン 2024年 No.35に掲載');
+INSERT INTO titles VALUES(952,'深夜のコンビニ、デカめの襲来',0,'WYMG',0,'週刊ヤングマガジン 2024年 No.35に掲載');
 COMMIT;
