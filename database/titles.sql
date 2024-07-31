@@ -946,4 +946,6 @@ INSERT INTO titles VALUES(949,'化け狐の執心',0,'WSJP',0,'週刊少年ジ�
 INSERT INTO titles VALUES(950,'僕のヒーローアカデミア特別スピンオフ CONNECT TO THE DAY',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.35に掲載');
 INSERT INTO titles VALUES(951,'おっぱいのせいで留年するわけない！',0,'WYMG',0,'週刊ヤングマガジン 2024年 No.35に掲載');
 INSERT INTO titles VALUES(952,'深夜のコンビニ、デカめの襲来',0,'WYMG',0,'週刊ヤングマガジン 2024年 No.35に掲載');
+INSERT INTO titles VALUES(953,'ライフセーバーウィッチ',0,'WSSD',0,'週刊少年サンデー 2024年 No.36に掲載。夏の読切連弾第6弾！');
+INSERT INTO titles VALUES(954,'GREED PUNK',1,'BSMG',0,'週刊少年マガジン 2024年 No.35に出張掲載');
 COMMIT;
