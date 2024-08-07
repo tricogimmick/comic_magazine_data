@@ -948,4 +948,10 @@ INSERT INTO titles VALUES(951,'おっぱいのせいで留年するわけない�
 INSERT INTO titles VALUES(952,'深夜のコンビニ、デカめの襲来',0,'WYMG',0,'週刊ヤングマガジン 2024年 No.35に掲載');
 INSERT INTO titles VALUES(953,'ライフセーバーウィッチ',0,'WSSD',0,'週刊少年サンデー 2024年 No.36に掲載。夏の読切連弾第6弾！');
 INSERT INTO titles VALUES(954,'GREED PUNK',1,'BSMG',0,'週刊少年マガジン 2024年 No.35に出張掲載');
+INSERT INTO titles VALUES(955,'地球防衛隊X',1,'IMGP',0,'週刊少年マガジン 2024年 No.36・37合併号に掲載');
+INSERT INTO titles VALUES(956,'RED RULE',1,'BSMG',0,'週刊少年マガジン 2024年 No.36・37合併号に出張掲載');
+INSERT INTO titles VALUES(957,'バックランク',1,'IMGP',0,'週刊少年マガジン 2024年No.36・37合併号に出張掲載');
+INSERT INTO titles VALUES(958,'ガキシス',0,'WSMG',0,'週刊少年マガジン 2024年 No.36・37合併号に掲載');
+INSERT INTO titles VALUES(959,'エスパーの子',0,'WSMG',0,'週刊少年マガジン 2024年 No.36・37合併号に掲載');
+INSERT INTO titles VALUES(960,'サメオアタック',0,'WSSD',0,'週刊少年サンデー 2024年 No.37・38合併号に掲載。夏の読切連弾第7弾！');
 COMMIT;
