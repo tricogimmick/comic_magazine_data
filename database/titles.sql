@@ -954,4 +954,11 @@ INSERT INTO titles VALUES(957,'バックランク',1,'IMGP',0,'週刊少年マ�
 INSERT INTO titles VALUES(958,'ガキシス',0,'WSMG',0,'週刊少年マガジン 2024年 No.36・37合併号に掲載');
 INSERT INTO titles VALUES(959,'エスパーの子',0,'WSMG',0,'週刊少年マガジン 2024年 No.36・37合併号に掲載');
 INSERT INTO titles VALUES(960,'サメオアタック',0,'WSSD',0,'週刊少年サンデー 2024年 No.37・38合併号に掲載。夏の読切連弾第7弾！');
+INSERT INTO titles VALUES(961,'なんでここに先生が！？',1,'WYMG',0,'週刊ヤングマガジン 2024年 No.38より連載再開（前回掲載は2020年34号）');
+INSERT INTO titles VALUES(962,'幼稚園WARS',1,'IJPP',0,'週刊少年ジャンプ 2024年 No.38に出張掲載');
+INSERT INTO titles VALUES(963,'小咄：竜の落とし子',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.38に掲載');
+INSERT INTO titles VALUES(964,'百瀬アキラの初恋破綻中。',1,'WSSD',0,'週刊少年サンデー 2024年 No.39より連載開始');
+INSERT INTO titles VALUES(965,'嵐城さんが言うには',0,'WSSD',0,'週刊少年サンデー 2024年　No.39 に掲載。夏の読切連弾第8弾！');
+INSERT INTO titles VALUES(966,'恋喰少女 特別編',1,'ISDW',0,'週刊少年サンデー 2024年 No.39に出張掲載');
+INSERT INTO titles VALUES(967,'色憑くモノクローム',1,'WSMG',0,'週刊少年マガジン 2024年 No.38より連載開始');
 COMMIT;
