@@ -961,4 +961,5 @@ INSERT INTO titles VALUES(964,'百瀬アキラの初恋破綻中。',1,'WSSD',0,
 INSERT INTO titles VALUES(965,'嵐城さんが言うには',0,'WSSD',0,'週刊少年サンデー 2024年　No.39 に掲載。夏の読切連弾第8弾！');
 INSERT INTO titles VALUES(966,'恋喰少女 特別編',1,'ISDW',0,'週刊少年サンデー 2024年 No.39に出張掲載');
 INSERT INTO titles VALUES(967,'色憑くモノクローム',1,'WSMG',0,'週刊少年マガジン 2024年 No.38より連載開始');
+INSERT INTO titles VALUES(968,'龍と霊 -DRAGON&APE-',1,'WMRG',0,'週刊モーニング 2024年 No.38より連載開始');
 COMMIT;
