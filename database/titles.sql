@@ -966,4 +966,6 @@ INSERT INTO titles VALUES(969,'INNU -イッヌ-',1,'WYMG',0,'週刊ヤングマ�
 INSERT INTO titles VALUES(970,'どくどく',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.39に掲載');
 INSERT INTO titles VALUES(971,'イチカバチカ',1,'WSSD',0,'週刊少年サンデー 2024年 No.40より連載開始');
 INSERT INTO titles VALUES(972,'あやかしの葬儀屋',1,'ISDW',0,'週刊少年サンデー 2024年 No.40に出張掲載');
+INSERT INTO titles VALUES(973,'ゾンビジョン',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.40に掲載。第107回手塚賞準入選作品');
+INSERT INTO titles VALUES(974,'鮫内かすみはちょっと冷たい',0,'WYMG',0,'週刊ヤングマガジン 2024年 No.40に掲載');
 COMMIT;
