@@ -968,4 +968,11 @@ INSERT INTO titles VALUES(971,'イチカバチカ',1,'WSSD',0,'週刊少年サ�
 INSERT INTO titles VALUES(972,'あやかしの葬儀屋',1,'ISDW',0,'週刊少年サンデー 2024年 No.40に出張掲載');
 INSERT INTO titles VALUES(973,'ゾンビジョン',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.40に掲載。第107回手塚賞準入選作品');
 INSERT INTO titles VALUES(974,'鮫内かすみはちょっと冷たい',0,'WYMG',0,'週刊ヤングマガジン 2024年 No.40に掲載');
+INSERT INTO titles VALUES(975,'ストランド',1,'WSSD',0,'週刊少年サンデー 2024年 No.41より連載開始');
+INSERT INTO titles VALUES(976,'High wall',0,'WSMG',0,'週刊少年マガジン 2024年 No.41に掲載');
+INSERT INTO titles VALUES(977,'弁護人ゆらぎの衝動',1,'BSMG',0,'週刊少年マガジン 2024年 No.40に出張掲載');
+INSERT INTO titles VALUES(978,'ルキオラと魔境の商館員',1,'IMGP',0,'週刊少年マガジン 2024年 No.40に出張掲載');
+INSERT INTO titles VALUES(979,'HOOL!GAN''S',1,'IMGP',0,'週刊少年マガジン 2024年 No.40に出張掲載');
+INSERT INTO titles VALUES(980,'ゆめねこねくと',1,'WSMG',0,'週刊少年マガジン 2024年 No.40より連載開始');
+INSERT INTO titles VALUES(981,'先輩後輩必ず死ぬ デス・ゲーム',0,'WSMG',0,'週刊少年マガジン 2024年 No.40に掲載');
 COMMIT;
