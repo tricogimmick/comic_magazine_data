@@ -975,4 +975,6 @@ INSERT INTO titles VALUES(978,'ルキオラと魔境の商館員',1,'IMGP',0,'�
 INSERT INTO titles VALUES(979,'HOOL!GAN''S',1,'IMGP',0,'週刊少年マガジン 2024年 No.40に出張掲載');
 INSERT INTO titles VALUES(980,'ゆめねこねくと',1,'WSMG',0,'週刊少年マガジン 2024年 No.40より連載開始');
 INSERT INTO titles VALUES(981,'先輩後輩必ず死ぬ デス・ゲーム',0,'WSMG',0,'週刊少年マガジン 2024年 No.40に掲載');
+INSERT INTO titles VALUES(982,'追放された転生重騎士はゲーム知識で無双する',1,'WYMG',0,'ヤンマガWebより移籍連載。週刊ヤングマガジン 2024年 No.41より連載開始');
+INSERT INTO titles VALUES(983,'魔男のイチ',1,'WSJP',0,'週刊少年ジャンプ 2024年 No.41より新連載');
 COMMIT;
