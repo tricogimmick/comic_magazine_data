@@ -977,4 +977,9 @@ INSERT INTO titles VALUES(980,'ゆめねこねくと',1,'WSMG',0,'週刊少年�
 INSERT INTO titles VALUES(981,'先輩後輩必ず死ぬ デス・ゲーム',0,'WSMG',0,'週刊少年マガジン 2024年 No.40に掲載');
 INSERT INTO titles VALUES(982,'追放された転生重騎士はゲーム知識で無双する',1,'WYMG',0,'ヤンマガWebより移籍連載。週刊ヤングマガジン 2024年 No.41より連載開始');
 INSERT INTO titles VALUES(983,'魔男のイチ',1,'WSJP',0,'週刊少年ジャンプ 2024年 No.41より新連載');
+INSERT INTO titles VALUES(984,'LoVE GAME',1,'IMGP',0,'週刊少年マガジン 2024年 No.41に出張掲載');
+INSERT INTO titles VALUES(985,'アキレス',1,'BSMG',0,'週刊少年マガジン 2024年 No.41に出張掲載');
+INSERT INTO titles VALUES(986,'失語の拳',1,'BSMG',0,'週刊少年マガジン 2024年 No.41に出張掲載');
+INSERT INTO titles VALUES(987,'いつでもストレッチちゃん',0,'WSMG',0,'週刊少年マガジン 2024年 No.41に掲載');
+INSERT INTO titles VALUES(988,'界変の魔法使い',1,'WSSD',0,'週刊少年サンデー 2024年 No42より連載開始');
 COMMIT;
