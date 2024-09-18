@@ -985,4 +985,6 @@ INSERT INTO titles VALUES(988,'界変の魔法使い',1,'WSSD',0,'週刊少年�
 INSERT INTO titles VALUES(989,'絶滅世界で食パンを',1,'WMRG',0,'週刊モーニング 2024年 No.41より連載開始');
 INSERT INTO titles VALUES(990,'朝起きたら歯がギザギザになってた',0,'WYMG',0,'週刊ヤングマガジン 2024年 No.42に掲載');
 INSERT INTO titles VALUES(991,'しのびごと',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.42より連載開始');
+INSERT INTO titles VALUES(992,'書道教室',0,'WSMG',0,'週刊少年マガジン 2024年 No.42に掲載');
+INSERT INTO titles VALUES(993,'走れ！鮫島',0,'WSSD',0,'　週刊少年サンデー 2024年 No.43に掲載');
 COMMIT;
