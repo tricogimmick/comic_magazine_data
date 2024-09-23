@@ -987,4 +987,5 @@ INSERT INTO titles VALUES(990,'朝起きたら歯がギザギザになってた'
 INSERT INTO titles VALUES(991,'しのびごと',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.42より連載開始');
 INSERT INTO titles VALUES(992,'書道教室',0,'WSMG',0,'週刊少年マガジン 2024年 No.42に掲載');
 INSERT INTO titles VALUES(993,'走れ！鮫島',0,'WSSD',0,'　週刊少年サンデー 2024年 No.43に掲載');
+INSERT INTO titles VALUES(994,'白卓 HAKUTAKU',1,'WSJP',0,'週刊少年ジャンプ 2024年 No.43より連載開始');
 COMMIT;
