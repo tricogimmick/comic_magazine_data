@@ -718,4 +718,7 @@ INSERT INTO issues VALUES('WSSD202443','WSSD','2024年 No.43','https://i.gyazo.c
 INSERT INTO issues VALUES('WMRG202442','WMRG','2024年 No.42','https://i.gyazo.com/2719641d8dce86def4b0e8352ddc794e.png','https://i.gyazo.com/eae718e8af90af8fa22bdcbfd1fc6c15.png','');
 INSERT INTO issues VALUES('WYMG202443','WYMG','2024年 No.43','https://i.gyazo.com/5a2072a4e8be263f54a82207c8c1e34c.png','https://i.gyazo.com/2fd3b6fcf444678814d792708ac8d13a.png','');
 INSERT INTO issues VALUES('WSJP202443','WSJP','2024年 No.43','https://i.gyazo.com/d76ddbe0b60049fcff8404d1bcc14614.png','https://i.gyazo.com/d51e2a78895d8050edb83979e8c9b983.png','');
+INSERT INTO issues VALUES('WSMG202443','WSMG','2024年 No.43','https://i.gyazo.com/587268cb9510184c61e33caa001ace54.png','https://i.gyazo.com/632b59381ee065f60e780a2281f941ef.png','');
+INSERT INTO issues VALUES('MAFT202411','MAFT','2024年11月号','https://i.gyazo.com/13f8c7befa74601707fb564372eaf877.png','https://i.gyazo.com/fe6bd8d586226a53e4cebaaafdcf60d1.png','');
+INSERT INTO issues VALUES('WSSD202444','WSSD','2024年 No.44','https://i.gyazo.com/37775d51c666e4bb5be87264b7663130.png','https://i.gyazo.com/fa189e7835df1fa49f124e58828a881c.png','');
 COMMIT;
