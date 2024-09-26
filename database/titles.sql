@@ -991,4 +991,5 @@ INSERT INTO titles VALUES(994,'白卓 HAKUTAKU',1,'WSJP',0,'週刊少年ジャ�
 INSERT INTO titles VALUES(995,'先輩後輩必ず死ぬ ハイスコア',0,'WSMG',0,'週刊少年マガジン 2024年 No.43に掲載');
 INSERT INTO titles VALUES(996,'隣の花村晴子さん',0,'WSMG',0,'週刊少年マガジン 2024年 No.43に掲載');
 INSERT INTO titles VALUES(997,'画家とAI',0,'MAFT',0,'月刊アフタヌーン 2024年11月号に掲載');
+INSERT INTO titles VALUES(998,'落合博満のオレ流転生 落合博満×ドアラ対談ルポ漫画',0,'WMRG',0,'週刊モーニング 2024年 No.43に掲載');
 COMMIT;
