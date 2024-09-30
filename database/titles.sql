@@ -984,7 +984,7 @@ INSERT INTO titles VALUES(987,'いつでもストレッチちゃん',0,'WSMG',0,
 INSERT INTO titles VALUES(988,'界変の魔法使い',1,'WSSD',0,'週刊少年サンデー 2024年 No42より連載開始');
 INSERT INTO titles VALUES(989,'絶滅世界で食パンを',1,'WMRG',0,'週刊モーニング 2024年 No.41より連載開始');
 INSERT INTO titles VALUES(990,'朝起きたら歯がギザギザになってた',0,'WYMG',0,'週刊ヤングマガジン 2024年 No.42に掲載');
-INSERT INTO titles VALUES(991,'しのびごと',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.42より連載開始');
+INSERT INTO titles VALUES(991,'しのびごと',1,'WSJP',0,'週刊少年ジャンプ 2024年 No.42より連載開始');
 INSERT INTO titles VALUES(992,'書道教室',0,'WSMG',0,'週刊少年マガジン 2024年 No.42に掲載');
 INSERT INTO titles VALUES(993,'走れ！鮫島',0,'WSSD',0,'　週刊少年サンデー 2024年 No.43に掲載');
 INSERT INTO titles VALUES(994,'白卓 HAKUTAKU',1,'WSJP',0,'週刊少年ジャンプ 2024年 No.43より連載開始');
@@ -992,4 +992,6 @@ INSERT INTO titles VALUES(995,'先輩後輩必ず死ぬ ハイスコア',0,'WSMG
 INSERT INTO titles VALUES(996,'隣の花村晴子さん',0,'WSMG',0,'週刊少年マガジン 2024年 No.43に掲載');
 INSERT INTO titles VALUES(997,'画家とAI',0,'MAFT',0,'月刊アフタヌーン 2024年11月号に掲載');
 INSERT INTO titles VALUES(998,'落合博満のオレ流転生 落合博満×ドアラ対談ルポ漫画',0,'WMRG',0,'週刊モーニング 2024年 No.43に掲載');
+INSERT INTO titles VALUES(999,'ちゃんと呪ってイチコちゃん',1,'WYMG',0,'週刊ヤングマガジン 2024年 No.44より連載開始');
+INSERT INTO titles VALUES(1000,'どうきゅーせいと！',1,'IYMW',0,'週刊ヤングマガジン 2024年 No.44に出張掲載');
 COMMIT;
