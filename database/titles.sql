@@ -994,4 +994,5 @@ INSERT INTO titles VALUES(997,'画家とAI',0,'MAFT',0,'月刊アフタヌーン
 INSERT INTO titles VALUES(998,'落合博満のオレ流転生 落合博満×ドアラ対談ルポ漫画',0,'WMRG',0,'週刊モーニング 2024年 No.43に掲載');
 INSERT INTO titles VALUES(999,'ちゃんと呪ってイチコちゃん',1,'WYMG',0,'週刊ヤングマガジン 2024年 No.44より連載開始');
 INSERT INTO titles VALUES(1000,'どうきゅーせいと！',1,'IYMW',0,'週刊ヤングマガジン 2024年 No.44に出張掲載');
+INSERT INTO titles VALUES(1001,'となりの席のヤツがそういう目で見てくる',1,'ISDW',0,'週刊少年サンデー 2024年 No.45に出張掲載');
 COMMIT;
