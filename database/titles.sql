@@ -995,4 +995,9 @@ INSERT INTO titles VALUES(998,'落合博満のオレ流転生 落合博満×ド�
 INSERT INTO titles VALUES(999,'ちゃんと呪ってイチコちゃん',1,'WYMG',0,'週刊ヤングマガジン 2024年 No.44より連載開始');
 INSERT INTO titles VALUES(1000,'どうきゅーせいと！',1,'IYMW',0,'週刊ヤングマガジン 2024年 No.44に出張掲載');
 INSERT INTO titles VALUES(1001,'となりの席のヤツがそういう目で見てくる',1,'ISDW',0,'週刊少年サンデー 2024年 No.45に出張掲載');
+INSERT INTO titles VALUES(1002,'伽藍堂のガラクタたち',1,'WYMG',0,'週刊ヤングマガジン 2024年 No.45より連載開始');
+INSERT INTO titles VALUES(1003,'邪神の弁当屋さん',1,'ICDY',0,'週刊ヤングマガジン 2024年 No.45に出張掲載');
+INSERT INTO titles VALUES(1004,'星降る王国のニナ',1,'MBLV',0,'週刊ヤングマガジン 2024年 No.45に出張掲載');
+INSERT INTO titles VALUES(1005,'邏卒妖怪狩り',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.45に掲載');
+INSERT INTO titles VALUES(1006,'スーパーマジシャン伊流ジョン',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.45に掲載');
 COMMIT;
