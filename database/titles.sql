@@ -1000,4 +1000,7 @@ INSERT INTO titles VALUES(1003,'邪神の弁当屋さん',1,'ICDY',0,'週刊ヤ�
 INSERT INTO titles VALUES(1004,'星降る王国のニナ',1,'MBLV',0,'週刊ヤングマガジン 2024年 No.45に出張掲載');
 INSERT INTO titles VALUES(1005,'邏卒妖怪狩り',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.45に掲載');
 INSERT INTO titles VALUES(1006,'スーパーマジシャン伊流ジョン',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.45に掲載');
+INSERT INTO titles VALUES(1007,'びかびかっ',0,'WSMG',0,'週刊少年マガジン 2024年 No.45に掲載');
+INSERT INTO titles VALUES(1008,'ルリちゃんは縛られない',0,'WSMG',0,'週刊少年マガジン 2024年 No.45に掲載');
+INSERT INTO titles VALUES(1009,'愛妻の裏アカ',1,'IMGP',0,'週刊少年マガジン 2024年 No.45に出張掲載');
 COMMIT;
