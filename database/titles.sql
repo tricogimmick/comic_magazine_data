@@ -1003,4 +1003,6 @@ INSERT INTO titles VALUES(1006,'スーパーマジシャン伊流ジョン',0,'W
 INSERT INTO titles VALUES(1007,'びかびかっ',0,'WSMG',0,'週刊少年マガジン 2024年 No.45に掲載');
 INSERT INTO titles VALUES(1008,'ルリちゃんは縛られない',0,'WSMG',0,'週刊少年マガジン 2024年 No.45に掲載');
 INSERT INTO titles VALUES(1009,'愛妻の裏アカ',1,'IMGP',0,'週刊少年マガジン 2024年 No.45に出張掲載');
+INSERT INTO titles VALUES(1010,'BLUE FIGHT～蒼き若者たちのブレイキングダウン～',1,'WYMG',0,'週刊ヤングマガジン 2024年 No.46より連載開始');
+INSERT INTO titles VALUES(1011,'信号オールレッド',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.46に掲載');
 COMMIT;
