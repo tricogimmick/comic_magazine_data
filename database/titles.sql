@@ -1007,4 +1007,7 @@ INSERT INTO titles VALUES(1010,'BLUE FIGHT～蒼き若者たちのブレイキ�
 INSERT INTO titles VALUES(1011,'信号オールレッド',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.46に掲載');
 INSERT INTO titles VALUES(1012,'シテの花 ー能楽師・葉賀琥太郎の咲き方ー',1,'WSSD',0,'週刊少年サンデー 2024年 No.47より連載開始');
 INSERT INTO titles VALUES(1013,'僕のカノジョは病んでいる',0,'WSMG',0,'週刊少年マガジン 2024年 No.46に掲載');
+INSERT INTO titles VALUES(1014,'墓to故人を偲ぶ',0,'WYMG',0,'週刊ヤングマガジン 2024年 No.47に掲載');
+INSERT INTO titles VALUES(1015,'JF2025告知マンガ',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.47に掲載');
+INSERT INTO titles VALUES(1016,'OSAMU',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.47に掲載。第18回ジャンプ 金未来杯　エントリーNo.3');
 COMMIT;
