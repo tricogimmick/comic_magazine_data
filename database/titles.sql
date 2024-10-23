@@ -1010,4 +1010,6 @@ INSERT INTO titles VALUES(1013,'僕のカノジョは病んでいる',0,'WSMG',0
 INSERT INTO titles VALUES(1014,'墓to故人を偲ぶ',0,'WYMG',0,'週刊ヤングマガジン 2024年 No.47に掲載');
 INSERT INTO titles VALUES(1015,'JF2025告知マンガ',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.47に掲載');
 INSERT INTO titles VALUES(1016,'OSAMU',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.47に掲載。第18回ジャンプ 金未来杯　エントリーNo.3');
+INSERT INTO titles VALUES(1017,'無職×無職',0,'WSMG',0,'週刊少年マガジン 2024年 No.47に掲載');
+INSERT INTO titles VALUES(1018,'カントリーサイド・エルフ',0,'WSMG',0,'週刊少年マガジン 2024年 No.47に掲載');
 COMMIT;
