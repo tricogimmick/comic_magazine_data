@@ -1012,4 +1012,7 @@ INSERT INTO titles VALUES(1015,'JF2025告知マンガ',0,'WSJP',0,'週刊少年�
 INSERT INTO titles VALUES(1016,'OSAMU',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.47に掲載。第18回ジャンプ 金未来杯　エントリーNo.3');
 INSERT INTO titles VALUES(1017,'無職×無職',0,'WSMG',0,'週刊少年マガジン 2024年 No.47に掲載');
 INSERT INTO titles VALUES(1018,'カントリーサイド・エルフ',0,'WSMG',0,'週刊少年マガジン 2024年 No.47に掲載');
+INSERT INTO titles VALUES(1019,'もやしもん',0,'MAFT',0,'月刊アフタヌーン 2024年12月号に掲載');
+INSERT INTO titles VALUES(1020,'レーエンデ国物語',1,'MAFT',0,'月刊アフタヌーン 2024年12月号より連載開始');
+INSERT INTO titles VALUES(1021,'NEUTRAL',0,'MAFT',0,'2024年12月号に掲載。四季賞2024秋 四季大賞受賞作品');
 COMMIT;
