@@ -1015,4 +1015,7 @@ INSERT INTO titles VALUES(1018,'カントリーサイド・エルフ',0,'WSMG',0
 INSERT INTO titles VALUES(1019,'もやしもん',0,'MAFT',0,'月刊アフタヌーン 2024年12月号に掲載');
 INSERT INTO titles VALUES(1020,'レーエンデ国物語',1,'MAFT',0,'月刊アフタヌーン 2024年12月号より連載開始');
 INSERT INTO titles VALUES(1021,'NEUTRAL',0,'MAFT',0,'2024年12月号に掲載。四季賞2024秋 四季大賞受賞作品');
+INSERT INTO titles VALUES(1022,'遺書ロック',0,'WYMG',0,'週刊ヤングマガジン 2024年 No.48に掲載');
+INSERT INTO titles VALUES(1023,'ニコニコ珍賭博',0,'WYMG',0,'週刊ヤングマガジン 2024年 No.48に掲載');
+INSERT INTO titles VALUES(1024,'インビジブルブラッド',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.48に掲載。J金未来杯エントリーNo.4');
 COMMIT;
