@@ -1018,4 +1018,5 @@ INSERT INTO titles VALUES(1021,'NEUTRAL',0,'MAFT',0,'2024年12月号に掲載。
 INSERT INTO titles VALUES(1022,'遺書ロック',0,'WYMG',0,'週刊ヤングマガジン 2024年 No.48に掲載');
 INSERT INTO titles VALUES(1023,'ニコニコ珍賭博',0,'WYMG',0,'週刊ヤングマガジン 2024年 No.48に掲載');
 INSERT INTO titles VALUES(1024,'インビジブルブラッド',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.48に掲載。J金未来杯エントリーNo.4');
+INSERT INTO titles VALUES(1025,'復活神ハンザキ',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.49に掲載。J金未来杯エントリーNo.5');
 COMMIT;
