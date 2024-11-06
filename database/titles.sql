@@ -1021,4 +1021,8 @@ INSERT INTO titles VALUES(1024,'インビジブルブラッド',0,'WSJP',0,'週�
 INSERT INTO titles VALUES(1025,'復活神ハンザキ',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.49に掲載。J金未来杯エントリーNo.5');
 INSERT INTO titles VALUES(1026,'フーディーズ',1,'WYMG',0,'週刊ヤングマガジン 2024年 No.49・50に前後編で掲載');
 INSERT INTO titles VALUES(1027,'メイドさんはスキを見せない',0,'WYMG',0,'週刊ヤングマガジン 2024年 No.49に掲載');
+INSERT INTO titles VALUES(1028,'終焉の魔女と世界の旅',1,'BSMG',0,'週刊少年マガジン 2024年 No.49に出張掲載');
+INSERT INTO titles VALUES(1029,'ラヴラッド',1,'BSMG',0,'週刊少年マガジン 2024年 No.49に出張掲載');
+INSERT INTO titles VALUES(1030,'帰れ！大鶴谷帰宅倶楽部',1,'BSMG',0,'週刊少年マガジン 2024年 No.49に出張掲載');
+INSERT INTO titles VALUES(1031,'ミナソコ',0,'WSSD',0,'週刊少年サンデー 2024年 No.50に掲載');
 COMMIT;
