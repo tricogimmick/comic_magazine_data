@@ -1025,4 +1025,5 @@ INSERT INTO titles VALUES(1028,'終焉の魔女と世界の旅',1,'BSMG',0,'週�
 INSERT INTO titles VALUES(1029,'ラヴラッド',1,'BSMG',0,'週刊少年マガジン 2024年 No.49に出張掲載');
 INSERT INTO titles VALUES(1030,'帰れ！大鶴谷帰宅倶楽部',1,'BSMG',0,'週刊少年マガジン 2024年 No.49に出張掲載');
 INSERT INTO titles VALUES(1031,'ミナソコ',0,'WSSD',0,'週刊少年サンデー 2024年 No.50に掲載');
+INSERT INTO titles VALUES(1032,'意趣返し',0,'WYMG',0,'週刊ヤングマガジン 2024年 No.50に掲載');
 COMMIT;
