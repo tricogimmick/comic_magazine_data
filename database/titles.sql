@@ -1029,4 +1029,9 @@ INSERT INTO titles VALUES(1032,'意趣返し',0,'WYMG',0,'週刊ヤングマガ�
 INSERT INTO titles VALUES(1033,'シド・クラフトの最終推理',1,'WSJP',0,'週刊少年ジャンプ 2024年 No.51より新連載');
 INSERT INTO titles VALUES(1034,'武器職人のアフターサービス',0,'WSJP',0,'週刊少年ジャンプ 2024年 No.51に掲載。');
 INSERT INTO titles VALUES(1035,'神楽がゆく！',1,'IMGP',0,'週刊少年マガジン 2024年 No.51に出張掲載');
+INSERT INTO titles VALUES(1036,'妹は知っている',1,'WYMG',0,'週刊ヤングマガジン 2024年 No.52より連載開始');
+INSERT INTO titles VALUES(1037,'上野くんは開発済み',0,'IYMW',0,'週刊ヤングマガジン 2024年 No.52に出張掲載');
+INSERT INTO titles VALUES(1038,'隣の席の代々木さん',0,'WSMG',0,'週刊少年マガジン 2024年 No.52に掲載');
+INSERT INTO titles VALUES(1039,'闘☆戦☆暴',0,'WSMG',0,'週刊少年マガジン 2024年 No.52に掲載');
+INSERT INTO titles VALUES(1040,'生徒会にも穴はある！寄稿マンガ',0,'WSMG',0,'週刊少年マガジン 2024年 No.52に掲載');
 COMMIT;
